@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<title>#curation: Best Of Tech &amp; Startups Each Week</title>
+<title>Best Of Tech &amp; Startup:. ~2x curated episodes per week</title>
 <description>
 Curating &amp; reposting the ~2 best podcasts per week from the likes of a16z, recode, Tim Ferriss, TED, etc. 
 There are simply too many good podcasts out there, let us pick the best two each week for you. 
@@ -15,7 +15,7 @@ Wed, 10 Aug 2016 09:00:00 +0000
 Wed, 10 Aug 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
-<url>http://i.imgur.com/3Vx8JLI.jpg</url>
+<url>http://i.imgur.com/RowILM5.jpg</url>
 </image>
 <itunes:explicit>no</itunes:explicit>
 <itunes:subtitle>The Best Of Tech &amp; Startups</itunes:subtitle>
@@ -27,10 +27,10 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 </itunes:summary>
 <itunes:keywords>producthunt,product hunt,hunt,product</itunes:keywords>
 <itunes:owner>
-  <itunes:name>#curation: Best Of Tech &amp; Startups Each Week</itunes:name>
+  <itunes:name>Best Of Tech &amp; Startup:. ~2x curated episodes per week</itunes:name>
   <itunes:email>producthunt.bestof@gmail.com</itunes:email>
 </itunes:owner>
-<itunes:image href="http://i.imgur.com/3Vx8JLI.jpg"/>
+<itunes:image href="http://i.imgur.com/RowILM5.jpg"/>
 <itunes:category text="Technology"/>
 <itunes:category text="Business"/>
 
