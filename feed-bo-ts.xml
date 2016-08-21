@@ -9,10 +9,10 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 </description>
 <language>en</language>
 <pubdate>
-Wed, 10 Aug 2016 09:00:00 +0000
+Tue, 16 Aug 2016 09:00:00 +0000
   </pubdate>
 <lastBuildDate>
-Wed, 10 Aug 2016 09:00:00 +0000
+Tue, 16 Aug 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
 <url>http://i.imgur.com/RowILM5.jpg</url>
@@ -34,6 +34,28 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Technology"/>
 <itunes:category text="Business"/>
 
+<item>
+<title>
+Slate's The Gist: Brazil’s Redeemer Has Subpoena Power
+</title>
+<description>
+Things are bleak in Brazil. Prices are high, governments are broke, and gangs are tightening their control over the country’s slums.
+</description>
+<pubDate>Tue, 16 Aug 2016 09:00:00 +0000</pubDate>
+<itunes:author>Slate Magazine</itunes:author>
+<itunes:subtitle>
+Things are bleak in Brazil. Prices are high, governments are broke, and gangs are tightening their control over the country’s slums.
+</itunes:subtitle>
+<itunes:summary>
+Things are bleak in Brazil. Prices are high, governments are broke, and gangs are tightening their control over the country’s slums.
+</itunes:summary>
+<itunes:duration>1653</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/SM9081890963.mp3" length="19844493"/>
+</item>
+
+
+
 
 <item>
 <title>
@@ -52,7 +74,7 @@ A black hole analogue, which traps sound instead of light, generates "Hawking ra
 </itunes:summary>
 <itunes:duration>02:38</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
-<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/http://www.scientificamerican.com/podcast/podcast.mp3?fileId=3B44F3FF-C571-47F9-8FE83C2A6FC6C51D" length="05"/>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/www.scientificamerican.com/podcast/podcast.mp3?fileId=3B44F3FF-C571-47F9-8FE83C2A6FC6C51D" length="0"/>
 </item>
 
 
