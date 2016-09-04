@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<title>Reposting The Best Podcasts In Tech &amp; Startups</title>
+<title>Amazing Podcast Episodes: ~2x curated episodes per week</title>
 <description>
-Reposting the ~2 best podcasts per week from the likes of a16z, recode, Tim Ferriss, TED, etc. 
+Curating &amp; reposting the ~2 best podcasts per week.
 There are simply too many good podcasts out there, let us pick the best two each week for you. 
 Copyright is owned by the publisher, not this podcast, audio is streamed directly from publisher's servers.
 </description>
@@ -15,25 +15,27 @@ Wed, 10 Aug 2016 09:00:00 +0000
 Wed, 10 Aug 2016 09:00:00 +0000
   </lastBuildDate>
 <image>
-<url>http://i1.sndcdn.com/avatars-000242908011-0a4l26-original.jpg</url>
+<url>http://i.imgur.com/DkQlI2k.jpg</url>
 </image>
 <itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>The Best Of Tech &amp; Startups</itunes:subtitle>
-<itunes:author>Various Artists</itunes:author>
+<itunes:subtitle>~2x curated episodes per week</itunes:subtitle>
+<itunes:author>Amazing Podcasts</itunes:author>
 <itunes:summary>
-Reposting the ~2 best podcasts per week from the likes of a16z, recode, Tim Ferriss, TED, etc. 
+Curating &amp; reposting the ~2 best podcasts per week.
 There are simply too many good podcasts out there, let us pick the best two each week for you. 
 Copyright is owned by the publisher, not this podcast, audio is streamed directly from publisher's servers.
 </itunes:summary>
-<itunes:keywords>producthunt,product hunt,hunt,product</itunes:keywords>
+<itunes:keywords>amazing,podcasts,curation,best of,producthunt,product hunt,hunt,product</itunes:keywords>
 <itunes:owner>
-  <itunes:name>Product Hunt - The Best Of</itunes:name>
+  <itunes:name>Amazing Podcast Episodes: ~2x curated episodes per week</itunes:name>
   <itunes:email>producthunt.bestof@gmail.com</itunes:email>
 </itunes:owner>
-<itunes:image href="http://i1.sndcdn.com/avatars-000242908011-0a4l26-original.jpg"/>
+<itunes:image href="http://i.imgur.com/RowILM5.jpg"/>
 <itunes:category text="Technology"/>
 <itunes:category text="Business"/>
-<itunes:category text="News and Politics"/>
+<itunes:category text="Education"/>
+<itunes:category text="Society"/>
+<itunes:category text="Society & Culture"/>
 
 
 
