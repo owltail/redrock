@@ -9,13 +9,13 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 </description>
 <language>en</language>
 <pubdate>
-Fri, 16 Sep 2016 12:00:00 -0000
+Tue, 20 Sep 2016 12:00:00 -0000
   </pubdate>
 <lastBuildDate>
-Fri, 16 Sep 2016 12:00:00 -0000
+Tue, 20 Sep 2016 12:00:00 -0000
   </lastBuildDate>
 <image>
-<url>http://i.imgur.com/DkQlI2k.jpg</url>
+<url>http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg</url>
 </image>
 <itunes:explicit>no</itunes:explicit>
 <itunes:subtitle>~2x curated episodes per week</itunes:subtitle>
@@ -30,10 +30,33 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
   <itunes:name>Amazing Podcast Episodes: ~2x curated episodes per week</itunes:name>
   <itunes:email>producthunt.bestof@gmail.com</itunes:email>
 </itunes:owner>
-<itunes:image href="http://i.imgur.com/DkQlI2k.jpg"/>
+<itunes:image href="http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg"/>
 <itunes:category text="Technology"/>
 <itunes:category text="Business"/>
 <itunes:category text="Education"/>
+
+
+
+<item>
+<title>
+Tim Ferriss: Tony Robbins - On Achievement Versus Fulfillment
+</title>
+<description>
+For those of you that aren't familiar, Tony Robbins is the world's most famous performance coach. He's advised everyone from Bill Clinton to Mikhail Gorbachev to Serena Williams, and Leonardo DiCaprio to Oprah (who calls him "superhuman").
+</description>
+<pubDate>Tue, 20 Sep 2016 12:00:00 -0000</pubDate>
+<itunes:author>Tim Ferriss: Bestselling Author, Human Guinea Pig</itunes:author>
+<itunes:subtitle>
+For those of you that aren't familiar, Tony Robbins is the world's most famous performance coach. He's advised everyone from Bill Clinton to Mikhail Gorbachev to Serena Williams, and Leonardo DiCaprio to Oprah (who calls him "superhuman").
+</itunes:subtitle>
+<itunes:summary>
+For those of you that aren't familiar, Tony Robbins is the world's most famous performance coach. He's advised everyone from Bill Clinton to Mikhail Gorbachev to Serena Williams, and Leonardo DiCaprio to Oprah (who calls him "superhuman").
+</itunes:summary>
+<itunes:duration>01:38:00</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/timferriss/Tim_Ferriss_Show_-_Tony_Robbins_Fulfillment.mp3" length="70555063" type="audio/mp3"/>
+</item>
+
 
 
 <item>
