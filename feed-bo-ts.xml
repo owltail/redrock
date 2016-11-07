@@ -9,10 +9,10 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 </description>
 <language>en</language>
 <pubdate>
-Sat, 5 Nov 2016 12:00:00 -0000
+Mon, 7 Nov 2016 12:00:00 -0000
   </pubdate>
 <lastBuildDate>
-Sat, 5 Nov 2016 12:00:00 -0000
+Mon, 7 Nov 2016 12:00:00 -0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg</url>
@@ -35,6 +35,28 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Business"/>
 <itunes:category text="Education"/>
 
+  
+<item>
+<title>
+Hidden Brain: Give Me Your Tired...
+</title>
+<description>
+Our airwaves are filled with debates about migrants, refugees, and undocumented immigrants... Who should be in the United States, who shouldn't, and who should decide?
+</description>
+<pubDate>Mon, 7 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+Our airwaves are filled with debates about migrants, refugees, and undocumented immigrants... Who should be in the United States, who shouldn't, and who should decide?
+</itunes:subtitle>
+<itunes:summary>
+Our airwaves are filled with debates about migrants, refugees, and undocumented immigrants... Who should be in the United States, who shouldn't, and who should decide?
+</itunes:summary>
+<itunes:duration>1342</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/10/20161007_hiddenbrain_47.mp3" length="0"/>
+</item>
+  
+  
 <item>
 <title>
 Freakonomics Radio: This Is Your Brain on Podcasts
