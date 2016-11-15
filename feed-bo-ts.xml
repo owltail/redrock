@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
 <channel>
-<title>Amazing Podcast Episodes: ~2x curated episodes per week</title>
+<title>Amazing Podcast Episodes: ~3x curated episodes per week</title>
 <description>
-Curating &amp; reposting the ~2 best podcasts per week.
+Curating &amp; reposting the ~3 best podcasts per week.
 There are simply too many good podcasts out there, let us pick the best two each week for you. 
 Copyright is owned by the publisher, not this podcast, audio is streamed directly from publisher's servers.
 </description>
 <language>en</language>
 <pubdate>
-Sun, 13 Nov 2016 12:00:00 -0000
+Tue, 15 Nov 2016 12:00:00 -0000
   </pubdate>
 <lastBuildDate>
-Sun, 13 Nov 2016 12:00:00 -0000
+Tue, 15 Nov 2016 12:00:00 -0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg</url>
 </image>
 <itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>~2x curated episodes per week</itunes:subtitle>
+<itunes:subtitle>~3x curated episodes per week</itunes:subtitle>
 <itunes:author>Amazing Podcasts</itunes:author>
 <itunes:summary>
-Curating &amp; reposting the ~2 best podcasts per week.
+Curating &amp; reposting the ~3 best podcasts per week.
 There are simply too many good podcasts out there, let us pick the best two each week for you. 
 Copyright is owned by the publisher, not this podcast, audio is streamed directly from publisher's servers.
 </itunes:summary>
 <itunes:keywords>amazing,podcasts,curation,best of,producthunt,product hunt,hunt,product</itunes:keywords>
 <itunes:owner>
-  <itunes:name>Amazing Podcast Episodes: ~2x curated episodes per week</itunes:name>
+  <itunes:name>Amazing Podcast Episodes: ~3x curated episodes per week</itunes:name>
   <itunes:email>producthunt.bestof@gmail.com</itunes:email>
 </itunes:owner>
 <itunes:image href="http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg"/>
@@ -35,6 +35,27 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Business"/>
 <itunes:category text="Education"/>
 
+<item>
+<title>
+Freakonomics Radio: How Much Does the President Really Matter? (Rebroadcast)
+</title>
+<description>
+The U.S. president is often called the "leader of free world." But if you ask an economist or a Constitutional scholar how much the occupant of the Oval Office matters, they won't say much. We look at what the data have to say about measuring leadership, and its impact on the economy and the country.
+</description>
+<pubDate>Tue, 15 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>Stephen J. Dubner and WNYC Studiosy</itunes:author>
+<itunes:subtitle>
+The U.S. president is often called the "leader of free world." But if you ask an economist or a Constitutional scholar how much the occupant of the Oval Office matters, they won't say much. We look at what the data have to say about measuring leadership, and its impact on the economy and the country.
+</itunes:subtitle>
+<itunes:summary>
+The U.S. president is often called the "leader of free world." But if you ask an economist or a Constitutional scholar how much the occupant of the Oval Office matters, they won't say much. We look at what the data have to say about measuring leadership, and its impact on the economy and the country.
+</itunes:summary>
+<itunes:duration>33:26</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/freakonomics_podcast/freakonomics_podcast110916.mp3" length="36097536"/>
+</item>
+  
+  
 <item>
 <title>
 The Minefiled: What is the meaning of ‘Trump’?
