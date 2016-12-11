@@ -9,10 +9,10 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 </description>
 <language>en</language>
 <pubdate>
-Thu, 08 Dec 2016 12:00:00 -0000
+Sun, 11 Dec 2016 12:00:00 -0000
   </pubdate>
 <lastBuildDate>
-Thu, 08 Dec 2016 12:00:00 -0000
+Sun, 11 Dec 2016 12:00:00 -0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg</url>
@@ -35,6 +35,27 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Business"/>
 <itunes:category text="Education"/>
 
+<item>
+<title>
+Pessimists Archive: The Good Old Days
+</title>
+<description>
+When exactly were the good ol’ days? In this new episode of the Pessimists Archive podcast, we go back in time to find out -- exploring every moment that people claimed was a golden age, and trying to understand why, as Trump’s victory has shown, nostalgia is such a powerful force.
+</description>
+<pubDate>Sun, 11 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>PessimistsArc</itunes:author>
+<itunes:subtitle>
+When exactly were the good ol’ days? In this new episode of the Pessimists Archive podcast, we go back in time to find out -- exploring every moment that people claimed was a golden age, and trying to understand why, as Trump’s victory has shown, nostalgia is such a powerful force.
+</itunes:subtitle>
+<itunes:summary>
+When exactly were the good ol’ days? In this new episode of the Pessimists Archive podcast, we go back in time to find out -- exploring every moment that people claimed was a golden age, and trying to understand why, as Trump’s victory has shown, nostalgia is such a powerful force.
+</itunes:summary>
+<itunes:duration>00:34:18</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/292778555-pessimistsarc-the-good-old-days.mp3" length="65861927"/>
+</item>
+  
+  
 <item>
 <title>
 a16z: Old Food, New Tech -- 'Clean Meat'
