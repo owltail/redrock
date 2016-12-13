@@ -9,10 +9,10 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 </description>
 <language>en</language>
 <pubdate>
-Sun, 11 Dec 2016 12:00:00 -0000
+Tue, 13 Dec 2016 12:00:00 -0000
   </pubdate>
 <lastBuildDate>
-Sun, 11 Dec 2016 12:00:00 -0000
+Tue, 13 Dec 2016 12:00:00 -0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg</url>
@@ -35,6 +35,27 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Business"/>
 <itunes:category text="Education"/>
 
+<item>
+<title>
+Freakonomics Radio: Bad Medicine, Part 1: The Story of 98.6
+</title>
+<description>
+We tend to think of medicine as a science, but for most of human history it has been scientific-ish at best.
+</description>
+<pubDate>Tue, 13 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Stephen J. Dubner and WNYC Studios</itunes:author>
+<itunes:subtitle>
+We tend to think of medicine as a science, but for most of human history it has been scientific-ish at best.
+</itunes:subtitle>
+<itunes:summary>
+We tend to think of medicine as a science, but for most of human history it has been scientific-ish at best.
+</itunes:summary>
+<itunes:duration>44:55</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/freakonomics_podcast/freakonomics_podcast113016.mp3" length="0"/>
+</item>
+  
+  
 <item>
 <title>
 Pessimists Archive: The Good Old Days
