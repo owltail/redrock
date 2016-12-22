@@ -9,10 +9,10 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 </description>
 <language>en</language>
 <pubdate>
-Tue, 21 Dec 2016 12:00:00 -0000
+Thu, 23 Dec 2016 12:00:00 -0000
   </pubdate>
 <lastBuildDate>
-Tue, 21 Dec 2016 12:00:00 -0000
+Thu, 23 Dec 2016 12:00:00 -0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg</url>
@@ -35,6 +35,27 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Business"/>
 <itunes:category text="Education"/>
 
+
+  
+<item>
+<title>
+The Ezra Klein Show: Trevor Noah, host of The Daily Show
+</title>
+<description>
+This is a serious conversation with a very funny man.Trevor Noah is the host of Comedy Central's the Daily Show. He's also a stand-up comic who grew up in apartheid South Africa, the son of a black mother and a white father. That was illegal in apartheid-era South Africa, so Noah grew up hiding his real parentage, only seeing his father in carefully controlled circumstances.
+</description>
+<pubDate>Thu, 23 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Vox / Panoply</itunes:author>
+<itunes:subtitle>
+This is a serious conversation with a very funny man.Trevor Noah is the host of Comedy Central's the Daily Show. He's also a stand-up comic who grew up in apartheid South Africa, the son of a black mother and a white father. That was illegal in apartheid-era South Africa, so Noah grew up hiding his real parentage, only seeing his father in carefully controlled circumstances.
+</itunes:subtitle>
+<itunes:summary>
+This is a serious conversation with a very funny man.Trevor Noah is the host of Comedy Central's the Daily Show. He's also a stand-up comic who grew up in apartheid South Africa, the son of a black mother and a white father. That was illegal in apartheid-era South Africa, so Noah grew up hiding his real parentage, only seeing his father in carefully controlled circumstances.
+</itunes:summary>
+<itunes:duration>4385</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/PP3368056596.mp3" length="52631196"/>
+</item>
   
 
   
@@ -56,8 +77,7 @@ This is a special episode of the podcast. It's a sample chapter from my new book
 <itunes:duration>51:58</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
 <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/timferriss/Tim_Ferriss_Show_-_17_Questions_That_Changed_My_Life.mp3" length="37406592"/>
-</item>
-  
+</item> 
   
   
 <item>
