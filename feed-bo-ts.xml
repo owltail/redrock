@@ -9,10 +9,10 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 </description>
 <language>en</language>
 <pubdate>
-Thu, 29 Dec 2016 12:00:00 -0000
+Sun, 01 Jan 2016 12:00:00 -0000
   </pubdate>
 <lastBuildDate>
-Thu, 29 Dec 2016 12:00:00 -0000
+Sun, 01 Jan 2016 12:00:00 -0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg</url>
@@ -35,6 +35,30 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Business"/>
 <itunes:category text="Education"/>
 
+  
+  
+ 
+<item>
+<title>
+This American Life: #604: 20 Years Later
+</title>
+<description>
+Samantha Broun talks to cops, politicians, inmates, and family closest to the crime that changed policy 20 years ago for inmates serving life sentences in Pennsylvania. It's a crime Samantha knows well, because it happened to her mom.
+</description>
+<pubDate>Sun, 01 Jan 2016 09:00:00 +0000</pubDate>
+<itunes:author>This American Life</itunes:author>
+<itunes:subtitle>
+Samantha Broun talks to cops, politicians, inmates, and family closest to the crime that changed policy 20 years ago for inmates serving life sentences in Pennsylvania. It's a crime Samantha knows well, because it happened to her mom.
+</itunes:subtitle>
+<itunes:summary>
+Samantha Broun talks to cops, politicians, inmates, and family closest to the crime that changed policy 20 years ago for inmates serving life sentences in Pennsylvania. It's a crime Samantha knows well, because it happened to her mom.
+</itunes:summary>
+<itunes:duration>01:01:40</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/604.mp3" length="0"/>
+</item>
+  
+  
 <item>
 <title>
 TED Talks (audio): How AI can bring on a second Industrial Revolution | Kevin Kelly
@@ -54,6 +78,7 @@ TED Talks (audio): How AI can bring on a second Industrial Revolution | Kevin Ke
 <itunes:explicit>no</itunes:explicit>
 <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/download.ted.com/talks/KevinKelly_2016T.mp3" length="17565452"/>
 </item>
+  
   
   
 <item>
