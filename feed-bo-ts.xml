@@ -9,10 +9,10 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 </description>
 <language>en</language>
 <pubdate>
-Sun, 01 Jan 2017 12:00:00 -0000
+Tue, 03 Jan 2017 12:00:00 -0000
   </pubdate>
 <lastBuildDate>
-Sun, 01 Jan 2017 12:00:00 -0000
+Tue, 03 Jan 2017 12:00:00 -0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg</url>
@@ -35,6 +35,26 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Business"/>
 <itunes:category text="Education"/>
 
+
+<item>
+<title>
+TED Talks: How AI can bring on a second Industrial Revolution | Kevin Kelly
+</title>
+<description>
+"The actual path of a raindrop as it goes down the valley is unpredictable, but the general direction is inevitable," says digital visionary Kevin Kelly -- and technology is much the same, driven by patterns that are surprising but inevitable.
+</description>
+<pubDate>Tue, 03 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Kevin B. Jones</itunes:author>
+<itunes:subtitle>
+"The actual path of a raindrop as it goes down the valley is unpredictable, but the general direction is inevitable," says digital visionary Kevin Kelly -- and technology is much the same, driven by patterns that are surprising but inevitable.
+</itunes:subtitle>
+<itunes:summary>
+"The actual path of a raindrop as it goes down the valley is unpredictable, but the general direction is inevitable," says digital visionary Kevin Kelly -- and technology is much the same, driven by patterns that are surprising but inevitable.
+</itunes:summary>
+<itunes:duration>2645</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/download.ted.com/talks/KevinKelly_2016T.mp3" length="17565452"/>
+</item>
   
   
  
