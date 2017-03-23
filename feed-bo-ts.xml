@@ -35,7 +35,9 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Business"/>
 <itunes:category text="Education"/>
 
+
   
+<item>
 <title>
 Radiolab: Update: CRISPR
 </title>
@@ -54,6 +56,7 @@ In 2012, scientists had a realization: hidden inside one of the world’s smalle
 <itunes:explicit>no</itunes:explicit>
 <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast/radiolab_podcast17updatecrispr.mp3" length="0"/>
 </item>
+  
   
   
 <item>
