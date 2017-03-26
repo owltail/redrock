@@ -1,5 +1,4 @@
-<redirect>
-<newLocation>
-http://owltail.github.io/feed-ph-2.xml
-</newLocation>
-</redirect>
+header($_SERVER['SERVER_PROTOCOL'] . ' 301 Moved Permanently');
+header('Status: 301 Moved Permanently');
+header('Location: http://owltail.github.io/feed-ph-2.xml');
+exit();
