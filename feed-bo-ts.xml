@@ -1,9 +1,2147 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8"></meta>
-    <meta http-equiv="refresh" content="0; url=http://owltail.github.io/feed-ap-2.xml"></meta>
-  </head>
-  <body>
-  </body>
-</html>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Amazing Podcast Episodes: ~3x curated episodes per week</title>
+<description>
+Curating &amp; reposting the ~3 best podcasts per week.
+There are simply too many good podcasts out there, let us pick the best three each week for you. 
+Copyright is owned by the publisher, not this podcast, audio is streamed directly from publisher's servers.
+</description>
+<language>en</language>
+<pubdate>
+Mon, 17 Apr 2017 12:00:00 -0000
+  </pubdate>
+<lastBuildDate>
+Mon, 17 Apr 2017 12:00:00 -0000
+  </lastBuildDate>
+<image>
+<url>http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg</url>
+</image>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>~3x curated episodes per week</itunes:subtitle>
+<itunes:author>Amazing Podcasts</itunes:author>
+<itunes:summary>
+Curating &amp; reposting the ~3 best podcasts per week.
+There are simply too many good podcasts out there, let us pick the best two each week for you. 
+Copyright is owned by the publisher, not this podcast, audio is streamed directly from publisher's servers.
+</itunes:summary>
+<itunes:keywords>amazing,podcasts,curation,best of,producthunt,product hunt,hunt,product</itunes:keywords>
+<itunes:owner>
+  <itunes:name>Amazing Podcast Episodes: ~3x curated episodes per week</itunes:name>
+  <itunes:email>producthunt.bestof@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:image href="http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg"/>
+<itunes:category text="Society &amp; Culture"/>
+<itunes:category text="Business"/>
+<itunes:category text="Education"/>
+
+  
+<item>
+<title>
+Trailblazers: Lights...Camera...Disruption
+</title>
+<description>
+How the movie Jaws and a $40 late fee led to a complete disruption of the entertainment industry as we know it. Host Walter Isaacson explores a series of unusual partnerships, bold moves, and missed opportunities that defined television and film. For more on these stories go to delltechnologies.com/trailblazers
+</description>
+<pubDate>Mon, 17 Apr 2017 09:00:00 +0000</pubDate>
+<itunes:author>Dell Technologies</itunes:author>
+<itunes:subtitle>
+How the movie Jaws and a $40 late fee led to a complete disruption of the entertainment industry as we know it. Host Walter Isaacson explores a series of unusual partnerships, bold moves, and missed opportunities that defined television and film. For more on these stories go to delltechnologies.com/trailblazers
+</itunes:subtitle>
+<itunes:summary>
+How the movie Jaws and a $40 late fee led to a complete disruption of the entertainment industry as we know it. Host Walter Isaacson explores a series of unusual partnerships, bold moves, and missed opportunities that defined television and film. For more on these stories go to delltechnologies.com/trailblazers
+</itunes:summary>
+<itunes:duration>00:33:21</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/tracking.feedpress.it/link/16581/5587071/62256.mp3" length="32311662"/>
+</item>
+  
+  
+ 
+  
+  
+<item>
+<title>
+TED Radio Hour: Building Better Cities
+</title>
+<description>
+Cities are among our greatest experiments in human co-habitation. Do they also hold the answers to some of our biggest problems? This hour, TED speakers explore how cities can change the world. (Original Broadcast Date: January 08, 2016).
+</description>
+<pubDate>Sun, 16 Apr 2017 09:00:00 +0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+Cities are among our greatest experiments in human co-habitation. Do they also hold the answers to some of our biggest problems? This hour, TED speakers explore how cities can change the world. (Original Broadcast Date: January 08, 2016).
+</itunes:subtitle>
+<itunes:summary>
+Cities are among our greatest experiments in human co-habitation. Do they also hold the answers to some of our biggest problems? This hour, TED speakers explore how cities can change the world. (Original Broadcast Date: January 08, 2016).
+</itunes:summary>
+<itunes:duration>3147</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510298/media/anon.npr-mp3/npr/ted/2017/03/20170330_ted_cities.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+Radiolab: Nukes
+</title>
+<description>
+President Richard Nixon once boasted that at any moment he could pick up a telephone and - in 20 minutes - kill 60 million people.  Such is the power of the US President over the nation’s nuclear arsenal.  But what if you were the military officer on the receiving end of that phone call? Could you refuse the order?
+</description>
+<pubDate>Tue, 11 Apr 2017 09:00:00 +0000</pubDate>
+<itunes:author>WNYC Studios</itunes:author>
+<itunes:subtitle>
+President Richard Nixon once boasted that at any moment he could pick up a telephone and - in 20 minutes - kill 60 million people.  Such is the power of the US President over the nation’s nuclear arsenal.  But what if you were the military officer on the receiving end of that phone call? Could you refuse the order?
+</itunes:subtitle>
+<itunes:summary>
+President Richard Nixon once boasted that at any moment he could pick up a telephone and - in 20 minutes - kill 60 million people.  Such is the power of the US President over the nation’s nuclear arsenal.  But what if you were the military officer on the receiving end of that phone call? Could you refuse the order?
+</itunes:summary>
+<itunes:duration>55:40</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast/radiolab_podcast17nukes.mp3" length="0"/>
+</item>
+  
+  
+  
+ 
+<item>
+<title>
+Tara Brach: Realizing Your Deepest Desires
+</title>
+<description>
+Realizing Your Deepest Desires (2017-03-15) - This talk differentiates between egoic intentions (driven by wants and fears), and our true aspiration (deepest desires) to manifest our full potential for awake awareness and love. We explore ways to realize and open to our deepest desires when we are stuck in self-promotion, grasping and conflict, so that our aspiration becomes a compass of the heart that can guide us in living with wisdom and compassion.
+</description>
+<pubDate>Sun, 9 Apr 2017 09:00:00 +0000</pubDate>
+<itunes:author>Tara Brach</itunes:author>
+<itunes:subtitle>
+Realizing Your Deepest Desires (2017-03-15) - This talk differentiates between egoic intentions (driven by wants and fears), and our true aspiration (deepest desires) to manifest our full potential for awake awareness and love. We explore ways to realize and open to our deepest desires when we are stuck in self-promotion, grasping and conflict, so that our aspiration becomes a compass of the heart that can guide us in living with wisdom and compassion.
+</itunes:subtitle>
+<itunes:summary>
+Realizing Your Deepest Desires (2017-03-15) - This talk differentiates between egoic intentions (driven by wants and fears), and our true aspiration (deepest desires) to manifest our full potential for awake awareness and love. We explore ways to realize and open to our deepest desires when we are stuck in self-promotion, grasping and conflict, so that our aspiration becomes a compass of the heart that can guide us in living with wisdom and compassion.
+</itunes:summary>
+<itunes:duration>52:20</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/tarabrach/2017-03-15-Realizing-Your-Deepest-Desires-TaraBrach.mp3" length="25120202"/>
+</item>
+  
+  
+  
+<item>
+<title>
+This American Life: Testosterone
+</title>
+<description>
+Stories of people getting more testosterone and coming to regret it. And of people losing it and coming to appreciate life without it. The pros and cons of the hormone of desire.
+</description>
+<pubDate>Thu, 6 Apr 2017 09:00:00 +0000</pubDate>
+<itunes:author>This American Life</itunes:author>
+<itunes:subtitle>
+Stories of people getting more testosterone and coming to regret it. And of people losing it and coming to appreciate life without it. The pros and cons of the hormone of desire.
+</itunes:subtitle>
+<itunes:summary>
+Stories of people getting more testosterone and coming to regret it. And of people losing it and coming to appreciate life without it. The pros and cons of the hormone of desire.
+</itunes:summary>
+<itunes:duration>01:02:11</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/220.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+Multiplier Mindset: Why Finding Your Purpose Is The Key To Reaching Your Life Goals
+</title>
+<description>
+Finding your purpose in life is one of the surest ways to keep your ambition alive and always enjoy happiness and satisfaction in life. Dan Sullivan shares how he discovered his purpose and what that has meant for him as an entrepreneur.
+</description>
+<pubDate>Tue, 4 Apr 2017 09:00:00 +0000</pubDate>
+<itunes:author>Dan Sullivan - Strategic Coach - Entrepreneur</itunes:author>
+<itunes:subtitle>
+Finding your purpose in life is one of the surest ways to keep your ambition alive and always enjoy happiness and satisfaction in life. Dan Sullivan shares how he discovered his purpose and what that has meant for him as an entrepreneur.
+</itunes:subtitle>
+<itunes:summary>
+Finding your purpose in life is one of the surest ways to keep your ambition alive and always enjoy happiness and satisfaction in life. Dan Sullivan shares how he discovered his purpose and what that has meant for him as an entrepreneur.
+</itunes:summary>
+<itunes:duration>00:06:41</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/content.blubrry.com/themultipliermindset/MultiplierMindset_WhyFindingYourPurposeIsTheKeyToReachingYourLifeGoals.mp3" length="4901773"/>
+</item>
+  
+  
+<item>
+<title>
+Waking Up with Sam Harris: Reality and the Imagination
+</title>
+<description>
+In this episode of the Waking Up podcast, Sam Harris speaks with Yuval Noah Harari about meditation, the need for stories, the power of technology to erase the boundary between fact and fiction, wealth inequality, the problem of finding meaning in a world without work, religion as a virtual reality game, the difference between pain and suffering, the future of globalism, and other topics.
+</description>
+<pubDate>Sun, 2 Apr 2017 09:00:00 +0000</pubDate>
+<itunes:author>Sam Harris</itunes:author>
+<itunes:subtitle>
+In this episode of the Waking Up podcast, Sam Harris speaks with Yuval Noah Harari about meditation, the need for stories, the power of technology to erase the boundary between fact and fiction, wealth inequality, the problem of finding meaning in a world without work, religion as a virtual reality game, the difference between pain and suffering, the future of globalism, and other topics.
+</itunes:subtitle>
+<itunes:summary>
+In this episode of the Waking Up podcast, Sam Harris speaks with Yuval Noah Harari about meditation, the need for stories, the power of technology to erase the boundary between fact and fiction, wealth inequality, the problem of finding meaning in a world without work, religion as a virtual reality game, the difference between pain and suffering, the future of globalism, and other topics.
+</itunes:summary>
+<itunes:duration>01:32:12</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/wakingup/Waking_Up_Podcast_68_Yuval_Harari.mp3" length="132750640"/>
+</item>
+  
+  
+<item>
+<title>
+Exponential View: The future of longevity: a discussion with Dr Shamil Chandaria
+</title>
+<description>
+Philosopher and investor, Dr Shamil Chandaria, investigates how we might live much longer lives and asks how we can make those longer lives more meaningful. He dives into the emerging medicine and science of life extension in a deep but accessible way. He explains how we should consider super-longevity and super-wellbeing in tandem. And in discussion with an audience we explore the motivations for and ramifications of much longer lives.
+</description>
+<pubDate>Thu, 30 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>Exponential View</itunes:author>
+<itunes:subtitle>
+Philosopher and investor, Dr Shamil Chandaria, investigates how we might live much longer lives and asks how we can make those longer lives more meaningful. He dives into the emerging medicine and science of life extension in a deep but accessible way. He explains how we should consider super-longevity and super-wellbeing in tandem. And in discussion with an audience we explore the motivations for and ramifications of much longer lives.
+</itunes:subtitle>
+<itunes:summary>
+Philosopher and investor, Dr Shamil Chandaria, investigates how we might live much longer lives and asks how we can make those longer lives more meaningful. He dives into the emerging medicine and science of life extension in a deep but accessible way. He explains how we should consider super-longevity and super-wellbeing in tandem. And in discussion with an audience we explore the motivations for and ramifications of much longer lives.
+</itunes:summary>
+<itunes:duration>01:03:11</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/296869322-exponentialview-the-future-of-longevity-a-discussion-with-dr-shamil-chandaria.mp3" length="0"/>
+</item>
+  
+  
+  
+<item>
+<title>
+The Life Coach School Podcast with Brooke Castillo: Negativity
+</title>
+<description>
+On this episode, I would like to bring your awareness to your “hidden” negativity, beyond the obvious awareness level, and I want you to notice it in other people as you communicate with them. The reason why I want you to be aware of it is because it has a huge impact on the results you are getting in your lives. This “innocent” negativity ends up costing you your relationships, lost time and money. Join me as we explore the best ways to find hidden negativity in your life and turn it into something that serves you and brings you positive results.
+</description>
+<pubDate>Tue, 28 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>Brooke Castillo | Master Life Coach and Weight Loss Coach | Learning Life Coaching and Weight Coaching Techniques</itunes:author>
+<itunes:subtitle>
+On this episode, I would like to bring your awareness to your “hidden” negativity, beyond the obvious awareness level, and I want you to notice it in other people as you communicate with them. The reason why I want you to be aware of it is because it has a huge impact on the results you are getting in your lives. This “innocent” negativity ends up costing you your relationships, lost time and money. Join me as we explore the best ways to find hidden negativity in your life and turn it into something that serves you and brings you positive results.
+</itunes:subtitle>
+<itunes:summary>
+On this episode, I would like to bring your awareness to your “hidden” negativity, beyond the obvious awareness level, and I want you to notice it in other people as you communicate with them. The reason why I want you to be aware of it is because it has a huge impact on the results you are getting in your lives. This “innocent” negativity ends up costing you your relationships, lost time and money. Join me as we explore the best ways to find hidden negativity in your life and turn it into something that serves you and brings you positive results.
+</itunes:summary>
+<itunes:duration>41:02</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thelifecoachschool/LIFECOACHSCHOOL155.mp3" length="34662540"/>
+</item>
+  
+  
+<item>
+<title>
+Freakonomics: Why Is My Life So Hard?
+</title>
+<description>
+Most of us feel we face more headwinds and obstacles than everyone else — which breeds resentment. We also undervalue the tailwinds that help us — which leaves us ungrateful and unhappy. How can we avoid this trap?
+</description>
+<pubDate>Sat, 25 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>Stephen J. Dubner and WNYC Studios</itunes:author>
+<itunes:subtitle>
+Most of us feel we face more headwinds and obstacles than everyone else — which breeds resentment. We also undervalue the tailwinds that help us — which leaves us ungrateful and unhappy. How can we avoid this trap?
+</itunes:subtitle>
+<itunes:summary>
+Most of us feel we face more headwinds and obstacles than everyone else — which breeds resentment. We also undervalue the tailwinds that help us — which leaves us ungrateful and unhappy. How can we avoid this trap?
+</itunes:summary>
+<itunes:duration>30:29</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/freakonomics_podcast/freakonomics_podcast031517.mp3" length="0"/>
+</item>
+  
+
+  
+<item>
+<title>
+Radiolab: Update: CRISPR
+</title>
+<description>
+In 2012, scientists had a realization: hidden inside one of the world’s smallest organisms, was one of the world’s most powerful tools.
+</description>
+<pubDate>Thu, 23 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>WNYC Studios</itunes:author>
+<itunes:subtitle>
+In 2012, scientists had a realization: hidden inside one of the world’s smallest organisms, was one of the world’s most powerful tools.
+</itunes:subtitle>
+<itunes:summary>
+In 2012, scientists had a realization: hidden inside one of the world’s smallest organisms, was one of the world’s most powerful tools.
+</itunes:summary>
+<itunes:duration>49:37</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast/radiolab_podcast17updatecrispr.mp3" length="0"/>
+</item>
+  
+  
+  
+<item>
+<title>
+#AskGaryVee: Tony Robbins, Unshakeable, Gratitude and Focusing on Your Steak
+</title>
+<description>
+LEGENDARY Tony Robbins stops by and co-hosts with me !! After a quick summary of Tony’s new book ‘UNSHAKEABLE,' we answer questions about how Tony and I find gratitude in our lives, the importance of diversifying our investments, and the 80/20 rule behind focusing on what's important in business while also flirting with new ideas as an entrepreneur.
+</description>
+<pubDate>Tue, 21 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>Gary Vaynerchuk,  #askgaryvee</itunes:author>
+<itunes:subtitle>
+LEGENDARY Tony Robbins stops by and co-hosts with me !! After a quick summary of Tony’s new book ‘UNSHAKEABLE,' we answer questions about how Tony and I find gratitude in our lives, the importance of diversifying our investments, and the 80/20 rule behind focusing on what's important in business while also flirting with new ideas as an entrepreneur.
+</itunes:subtitle>
+<itunes:summary>
+LEGENDARY Tony Robbins stops by and co-hosts with me !! After a quick summary of Tony’s new book ‘UNSHAKEABLE,' we answer questions about how Tony and I find gratitude in our lives, the importance of diversifying our investments, and the 80/20 rule behind focusing on what's important in business while also flirting with new ideas as an entrepreneur.
+</itunes:summary>
+<itunes:duration>38:44</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/askgaryvee/AGV_242_Final.mp3" length="55757762"/>
+</item>
+  
+  
+  
+<item>
+<title>
+Sam Harris: Why Meditate?
+</title>
+<description>
+In this episode the Waking Up podcast, Sam Harris and Joseph Goldstein answer questions about the practice of mindfulness. They discuss the nature negative emotions, the importance of ethics, the concept of enlightenment, and other topics.
+</description>
+<pubDate>Sun, 19 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>Sam Harris</itunes:author>
+<itunes:subtitle>
+In this episode the Waking Up podcast, Sam Harris and Joseph Goldstein answer questions about the practice of mindfulness. They discuss the nature negative emotions, the importance of ethics, the concept of enlightenment, and other topics.
+</itunes:subtitle>
+<itunes:summary>
+In this episode the Waking Up podcast, Sam Harris and Joseph Goldstein answer questions about the practice of mindfulness. They discuss the nature negative emotions, the importance of ethics, the concept of enlightenment, and other topics.
+</itunes:summary>
+<itunes:duration>01:46:06</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/wakingup/Waking_Up_Podcast_63.mp3" length="153436932"/>
+</item>
+  
+  
+  
+<item>
+<title>
+The Knowledge Project: Naval Ravikant on Reading, Happiness, Systems for Decision Making, Habits, Radical Honesty
+</title>
+<description>
+Naval Ravikant is the CEO and co-founder of AngelList. He’s invested in more than 100 companies, including Uber, Twitter, Yammer, and so many others. Don’t worry, we’re not going to talk about early stage investing. Naval’s an incredibly deep thinker who challenges the status quo on so many things. He’s thought deeply about stuff that’s near and dear to us, like reading, habits, decision-making, and life. Just a heads up, this is the longest podcast I’ve ever done. Our conversation lasted over two hours. If you’re like me, you’re going to take a lot of notes.
+</description>
+<pubDate>Thu, 16 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>Shane Parrish</itunes:author>
+<itunes:subtitle>
+Naval Ravikant is the CEO and co-founder of AngelList. He’s invested in more than 100 companies, including Uber, Twitter, Yammer, and so many others. Don’t worry, we’re not going to talk about early stage investing. Naval’s an incredibly deep thinker who challenges the status quo on so many things. He’s thought deeply about stuff that’s near and dear to us, like reading, habits, decision-making, and life. Just a heads up, this is the longest podcast I’ve ever done. Our conversation lasted over two hours. If you’re like me, you’re going to take a lot of notes.
+</itunes:subtitle>
+<itunes:summary>
+Naval Ravikant is the CEO and co-founder of AngelList. He’s invested in more than 100 companies, including Uber, Twitter, Yammer, and so many others. Don’t worry, we’re not going to talk about early stage investing. Naval’s an incredibly deep thinker who challenges the status quo on so many things. He’s thought deeply about stuff that’s near and dear to us, like reading, habits, decision-making, and life. Just a heads up, this is the longest podcast I’ve ever done. Our conversation lasted over two hours. If you’re like me, you’re going to take a lot of notes.
+</itunes:summary>
+<itunes:duration>02:00:50</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/theknowledgeproject/TKP_Naval_Ravikant.mp3" length="145020126"/>
+</item>
+  
+  
+  
+<item>
+<title>
+Flash Forward: Bot for Teacher
+</title>
+<description>
+Today a future without schools. Instead of gathering students into a room and teaching them, everybody learns on their own time, on tablets and guided by artificial intelligence.
+
+
+
+First, I talk to a Ashok Goel, a computer scientist who developed an artificially intelligent TA named Jill Watson and didn’t tell any of his students she wasn’t a human. 
+
+Then I talk to two people building future, app based educational systems. Jessie Woolley-Wilson from DreamBox explains what adaptive learning is, and how it can help create a better learning experience for kids. She also talks about all the data they collect on kids to better serve them (data we’ll come back to later in the episode.) Along with Jessie, Julia Stiglitz from Coursera explains how this kind of self-directed learning can extend into the college and post-college world. 
+
+Jessie and Julia see a future with these kinds of learning apps that could be more democratic, more creative, more fun and more effective. But there are some downsides too. Neither of them see apps or algorithms replacing teachers, but there are other organizations and projects that do. 
+
+In 2013, a guy named Sugata Mitra won the TED Prize which comes with a pretty healthy million dollar check. He won this prize for his work on what he calls “A school in the cloud.” Mitra founded this organization named Hole in the Wall, where he went around the slums of India and installed these kiosks that children could use and play with. His whole thesis is that students can be taught by computers, on their own time. Without teachers. Here’s his TED talk.
+
+
+
+And this Hole in the Wall thing is one of the classic examples that a lot of people working on education apps point to to show that kids don’t need teachers to learn. Kids are naturally curious, they’re going to want to seek out information, you don’t have to force them into a tiny room to listen to a boring teacher.
+
+But we talk to some people who question that narrative. Audrey Watters, who runs the site Hack Education, says that projects like Hole in the Wall often don’t last. Nearly all the kiosks that Mitra set up are abandoned and vandalized, she says, and when you look at footage and images of the kiosks you can see that older, bigger boys dominate and push the smaller boys and girls out. 
+
+And get this to a question that came up with literally every person I talked to for this episode. What is the purpose of school? Is it to teach content? Or is it to teach students how to relate to one another, how to empathize, how to think, how to be good citizens? Nobody really knows. But we talk about it on the episode!
+
+We also talk about some of the other downsides of these systems. Jade Davis,  the associate director of digital learning projects at LaGuardia Community College in Queens New York, tells us about her concerns that algorithms might pigeonhole Kids who might not take to the system immediately. Kids like her own. 
+
+In the end, we talk about whether or not these kinds of solutions are really for everyone. Or if they’re just going to be used on poor, disadvantaged kids. Because, are Harvard students really going to be taught by robots? Probably not. 
+
+Bonus: Listen to the very end for a fun surprise.  
+</description>
+<pubDate>Tue, 14 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>Rose Eveleth</itunes:author>
+<itunes:subtitle>
+Today a future without schools. Instead of gathering students into a room and teaching them, everybody learns on their own time, on tablets and guided by artificial intelligence.
+
+
+
+First, I talk to a Ashok Goel, a computer scientist who developed an artificially intelligent TA named Jill Watson and didn’t tell any of his students she wasn’t a human. 
+
+Then I talk to two people building future, app based educational systems. Jessie Woolley-Wilson from DreamBox explains what adaptive learning is, and how it can help create a better learning experience for kids. She also talks about all the data they collect on kids to better serve them (data we’ll come back to later in the episode.) Along with Jessie, Julia Stiglitz from Coursera explains how this kind of self-directed learning can extend into the college and post-college world. 
+
+Jessie and Julia see a future with these kinds of learning apps that could be more democratic, more creative, more fun and more effective. But there are some downsides too. Neither of them see apps or algorithms replacing teachers, but there are other organizations and projects that do. 
+
+In 2013, a guy named Sugata Mitra won the TED Prize which comes with a pretty healthy million dollar check. He won this prize for his work on what he calls “A school in the cloud.” Mitra founded this organization named Hole in the Wall, where he went around the slums of India and installed these kiosks that children could use and play with. His whole thesis is that students can be taught by computers, on their own time. Without teachers. Here’s his TED talk.
+
+
+
+And this Hole in the Wall thing is one of the classic examples that a lot of people working on education apps point to to show that kids don’t need teachers to learn. Kids are naturally curious, they’re going to want to seek out information, you don’t have to force them into a tiny room to listen to a boring teacher.
+
+But we talk to some people who question that narrative. Audrey Watters, who runs the site Hack Education, says that projects like Hole in the Wall often don’t last. Nearly all the kiosks that Mitra set up are abandoned and vandalized, she says, and when you look at footage and images of the kiosks you can see that older, bigger boys dominate and push the smaller boys and girls out. 
+
+And get this to a question that came up with literally every person I talked to for this episode. What is the purpose of school? Is it to teach content? Or is it to teach students how to relate to one another, how to empathize, how to think, how to be good citizens? Nobody really knows. But we talk about it on the episode!
+
+We also talk about some of the other downsides of these systems. Jade Davis,  the associate director of digital learning projects at LaGuardia Community College in Queens New York, tells us about her concerns that algorithms might pigeonhole Kids who might not take to the system immediately. Kids like her own. 
+
+In the end, we talk about whether or not these kinds of solutions are really for everyone. Or if they’re just going to be used on poor, disadvantaged kids. Because, are Harvard students really going to be taught by robots? Probably not. 
+
+Bonus: Listen to the very end for a fun surprise.  
+</itunes:subtitle>
+<itunes:summary>
+Today a future without schools. Instead of gathering students into a room and teaching them, everybody learns on their own time, on tablets and guided by artificial intelligence.
+
+
+
+First, I talk to a Ashok Goel, a computer scientist who developed an artificially intelligent TA named Jill Watson and didn’t tell any of his students she wasn’t a human. 
+
+Then I talk to two people building future, app based educational systems. Jessie Woolley-Wilson from DreamBox explains what adaptive learning is, and how it can help create a better learning experience for kids. She also talks about all the data they collect on kids to better serve them (data we’ll come back to later in the episode.) Along with Jessie, Julia Stiglitz from Coursera explains how this kind of self-directed learning can extend into the college and post-college world. 
+
+Jessie and Julia see a future with these kinds of learning apps that could be more democratic, more creative, more fun and more effective. But there are some downsides too. Neither of them see apps or algorithms replacing teachers, but there are other organizations and projects that do. 
+
+In 2013, a guy named Sugata Mitra won the TED Prize which comes with a pretty healthy million dollar check. He won this prize for his work on what he calls “A school in the cloud.” Mitra founded this organization named Hole in the Wall, where he went around the slums of India and installed these kiosks that children could use and play with. His whole thesis is that students can be taught by computers, on their own time. Without teachers. Here’s his TED talk.
+
+
+
+And this Hole in the Wall thing is one of the classic examples that a lot of people working on education apps point to to show that kids don’t need teachers to learn. Kids are naturally curious, they’re going to want to seek out information, you don’t have to force them into a tiny room to listen to a boring teacher.
+
+But we talk to some people who question that narrative. Audrey Watters, who runs the site Hack Education, says that projects like Hole in the Wall often don’t last. Nearly all the kiosks that Mitra set up are abandoned and vandalized, she says, and when you look at footage and images of the kiosks you can see that older, bigger boys dominate and push the smaller boys and girls out. 
+
+And get this to a question that came up with literally every person I talked to for this episode. What is the purpose of school? Is it to teach content? Or is it to teach students how to relate to one another, how to empathize, how to think, how to be good citizens? Nobody really knows. But we talk about it on the episode!
+
+We also talk about some of the other downsides of these systems. Jade Davis,  the associate director of digital learning projects at LaGuardia Community College in Queens New York, tells us about her concerns that algorithms might pigeonhole Kids who might not take to the system immediately. Kids like her own. 
+
+In the end, we talk about whether or not these kinds of solutions are really for everyone. Or if they’re just going to be used on poor, disadvantaged kids. Because, are Harvard students really going to be taught by robots? Probably not. 
+
+Bonus: Listen to the very end for a fun surprise.  
+</itunes:summary>
+<itunes:duration>40:13</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/content.blubrry.com/flashforward/botforteacher.mp3" length="38615781"/>
+</item>
+  
+  
+<item>
+<title>
+Sam Harris: Being Good and Doing Good
+</title>
+<description>
+In this episode of the Waking Up podcast, Sam Harris speaks with Oxford philosopher William MacAskill about effective altruism, moral illusions, existential risk, and other topics.
+</description>
+<pubDate>Sun, 12 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>Sam Harris</itunes:author>
+<itunes:subtitle>
+In this episode of the Waking Up podcast, Sam Harris speaks with Oxford philosopher William MacAskill about effective altruism, moral illusions, existential risk, and other topics.
+</itunes:subtitle>
+<itunes:summary>
+In this episode of the Waking Up podcast, Sam Harris speaks with Oxford philosopher William MacAskill about effective altruism, moral illusions, existential risk, and other topics.
+</itunes:summary>
+<itunes:duration>02:10:21</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/wakingup/Waking_Up_Podcast_44.mp3" length="125788320"/>
+</item>
+  
+  
+  
+<item>
+<title>
+Tara Brach: Listening to the song - Part 1
+</title>
+<description>
+Listening is more than a communications skill, it is a capacity that awakens our awareness. As we learn to listen inwardly, we begin to understand and care for the life that is here. And as we listen to others, that same intimacy emerges. In this two-part series we examine the blocks to listening and the practices that cultivate this essential domain of human potential. Our focus is both on the transformational power of listening in our personal lives, and also the necessity for deep listening if we are to bring healing to our wider society.
+</description>
+<pubDate>Thu, 9 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>Tara Brach</itunes:author>
+<itunes:subtitle>
+Listening is more than a communications skill, it is a capacity that awakens our awareness. As we learn to listen inwardly, we begin to understand and care for the life that is here. And as we listen to others, that same intimacy emerges. In this two-part series we examine the blocks to listening and the practices that cultivate this essential domain of human potential. Our focus is both on the transformational power of listening in our personal lives, and also the necessity for deep listening if we are to bring healing to our wider society.
+</itunes:subtitle>
+<itunes:summary>
+Listening is more than a communications skill, it is a capacity that awakens our awareness. As we learn to listen inwardly, we begin to understand and care for the life that is here. And as we listen to others, that same intimacy emerges. In this two-part series we examine the blocks to listening and the practices that cultivate this essential domain of human potential. Our focus is both on the transformational power of listening in our personal lives, and also the necessity for deep listening if we are to bring healing to our wider society.
+</itunes:summary>
+<itunes:duration>49:02</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/tarabrach/2017-02-22-Pt1-Listening-to-the-Song-TaraBrach.mp3" length="23534855"/>
+</item>
+  
+  
+<item>
+<title>
+Flash Forward: My Everything Pal
+</title>
+<description>
+Today we travel to a future full of spreadsheet approved lives. A future where everything we do is tracked and quantified: calories, air quality, sleep, heart rate, microbes, brain waves, finances, happiness, sadness, menstrual cycles, poops, hopes and dreams. Everything. 
+</description>
+<pubDate>Tue, 7 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>Rose Eveleth</itunes:author>
+<itunes:subtitle>
+Today we travel to a future full of spreadsheet approved lives. A future where everything we do is tracked and quantified: calories, air quality, sleep, heart rate, microbes, brain waves, finances, happiness, sadness, menstrual cycles, poops, hopes and dreams. Everything. 
+</itunes:subtitle>
+<itunes:summary>
+Today we travel to a future full of spreadsheet approved lives. A future where everything we do is tracked and quantified: calories, air quality, sleep, heart rate, microbes, brain waves, finances, happiness, sadness, menstrual cycles, poops, hopes and dreams. Everything. 
+</itunes:summary>
+<itunes:duration>37:04</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/content.blubrry.com/flashforward/myeverythingpal.mp3" length="35585579"/>
+</item>
+  
+  
+  
+<item>
+<title>
+This American Life: It’s Working Out Very Nicely
+</title>
+<description>
+This week we document what happened when the President’s executive order went into effect temporarily banning travel from seven countries, and we talk about the way it was implemented. A major policy change thrown into the world like a fastball with no warning. It’s hard not to ask: “What just happened? What was that all about?”
+</description>
+<pubDate>Sun, 5 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>This American Life</itunes:author>
+<itunes:subtitle>
+This week we document what happened when the President’s executive order went into effect temporarily banning travel from seven countries, and we talk about the way it was implemented. A major policy change thrown into the world like a fastball with no warning. It’s hard not to ask: “What just happened? What was that all about?”
+</itunes:subtitle>
+<itunes:summary>
+This week we document what happened when the President’s executive order went into effect temporarily banning travel from seven countries, and we talk about the way it was implemented. A major policy change thrown into the world like a fastball with no warning. It’s hard not to ask: “What just happened? What was that all about?”
+</itunes:summary>
+<itunes:duration>01:03:12</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/609.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+The Tim Ferriss Show: Calming Philosophies for Chaotic Times -- Krista Tippett
+</title>
+<description>
+Krista Tippett (@KristaTippett) is a Peabody Award-winning broadcaster and New York Times bestselling author. She created and hosts the public radio program and podcast On Being and curates The Civil Conversations Project, an emergent approach to the differences of our age.
+
+She received a National Humanities Medal in 2013 from President Barack Obama at the White House for "thoughtfully delving into the mysteries of human existence. On the air and in print, Ms. Tippett avoids easy answers, embracing complexity and inviting people of every background to join her conversation about faith, ethics, and moral wisdom." Krista was a journalist and diplomat in Cold War Berlin and holds a Masters of Divinity from Yale University. Her books are Becoming Wise: An Inquiry into the Mystery and Art of Living, Einstein's God: Conversations About Science and the Human Spirit, and Speaking of Faith: Why Religion Matters -- and How to Talk About It.
+</description>
+<pubDate>Thu, 2 Mar 2017 09:00:00 +0000</pubDate>
+<itunes:author>Tim Ferriss: Bestselling Author, Human Guinea Pig</itunes:author>
+<itunes:subtitle>
+Krista Tippett (@KristaTippett) is a Peabody Award-winning broadcaster and New York Times bestselling author. She created and hosts the public radio program and podcast On Being and curates The Civil Conversations Project, an emergent approach to the differences of our age.
+
+She received a National Humanities Medal in 2013 from President Barack Obama at the White House for "thoughtfully delving into the mysteries of human existence. On the air and in print, Ms. Tippett avoids easy answers, embracing complexity and inviting people of every background to join her conversation about faith, ethics, and moral wisdom." Krista was a journalist and diplomat in Cold War Berlin and holds a Masters of Divinity from Yale University. Her books are Becoming Wise: An Inquiry into the Mystery and Art of Living, Einstein's God: Conversations About Science and the Human Spirit, and Speaking of Faith: Why Religion Matters -- and How to Talk About It.
+</itunes:subtitle>
+<itunes:summary>
+Krista Tippett (@KristaTippett) is a Peabody Award-winning broadcaster and New York Times bestselling author. She created and hosts the public radio program and podcast On Being and curates The Civil Conversations Project, an emergent approach to the differences of our age.
+
+She received a National Humanities Medal in 2013 from President Barack Obama at the White House for "thoughtfully delving into the mysteries of human existence. On the air and in print, Ms. Tippett avoids easy answers, embracing complexity and inviting people of every background to join her conversation about faith, ethics, and moral wisdom." Krista was a journalist and diplomat in Cold War Berlin and holds a Masters of Divinity from Yale University. Her books are Becoming Wise: An Inquiry into the Mystery and Art of Living, Einstein's God: Conversations About Science and the Human Spirit, and Speaking of Faith: Why Religion Matters -- and How to Talk About It.
+</itunes:summary>
+<itunes:duration>02:02:16</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/timferriss/The_Tim_Ferriss_Show_-_Krista_Tippett.mp3" length="88028928"/>
+</item>
+  
+  
+<item>
+<title>
+Radiolab: Ponzi Supernova
+</title>
+<description>
+Madoff speaks.  Investigating the world's largest con with the team behind @Audible_com's #PonziSupernova.
+</description>
+<pubDate>Tue, 28 Feb 2017 09:00:00 +0000</pubDate>
+<itunes:author>WNYC Studios</itunes:author>
+<itunes:subtitle>
+Madoff speaks.  Investigating the world's largest con with the team behind @Audible_com's #PonziSupernova.
+</itunes:subtitle>
+<itunes:summary>
+Madoff speaks.  Investigating the world's largest con with the team behind @Audible_com's #PonziSupernova.
+</itunes:summary>
+<itunes:duration>38:00</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast/radiolab_podcast17ponzi.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+The Tim Ferriss Show: Mr. Money Mustache — Living Beautifully on $25-27K Per Year
+</title>
+<description>
+Mr. Money Mustache (@mrmoneymustache -- Pete Adeney in real life) grew up in Canada in a family of mostly eccentric musicians. He worked in various tech companies before retiring at age 30. Pete, his wife, and their now eleven-year-old son live near Boulder, Colorado, and have not had real jobs since 2005.
+
+This begs the question of "How?" In essence, they accomplished this early retirement by optimizing all aspects of their lifestyle for maximal fun at minimal expense, and by using basic index-fund investing. Their average annual expenses total a mere $25-27,000, and they do not feel in want of anything.
+
+Since 2005, all three of them have explored a free-form life of interesting projects, side-businesses, and adventures.
+</description>
+<pubDate>Sun, 27 Feb 2017 09:00:00 +0000</pubDate>
+<itunes:author>Tim Ferriss: Bestselling Author, Human Guinea Pig</itunes:author>
+<itunes:subtitle>
+Mr. Money Mustache (@mrmoneymustache -- Pete Adeney in real life) grew up in Canada in a family of mostly eccentric musicians. He worked in various tech companies before retiring at age 30. Pete, his wife, and their now eleven-year-old son live near Boulder, Colorado, and have not had real jobs since 2005.
+
+This begs the question of "How?" In essence, they accomplished this early retirement by optimizing all aspects of their lifestyle for maximal fun at minimal expense, and by using basic index-fund investing. Their average annual expenses total a mere $25-27,000, and they do not feel in want of anything.
+
+Since 2005, all three of them have explored a free-form life of interesting projects, side-businesses, and adventures.
+</itunes:subtitle>
+<itunes:summary>
+Mr. Money Mustache (@mrmoneymustache -- Pete Adeney in real life) grew up in Canada in a family of mostly eccentric musicians. He worked in various tech companies before retiring at age 30. Pete, his wife, and their now eleven-year-old son live near Boulder, Colorado, and have not had real jobs since 2005.
+
+This begs the question of "How?" In essence, they accomplished this early retirement by optimizing all aspects of their lifestyle for maximal fun at minimal expense, and by using basic index-fund investing. Their average annual expenses total a mere $25-27,000, and they do not feel in want of anything.
+
+Since 2005, all three of them have explored a free-form life of interesting projects, side-businesses, and adventures.
+</itunes:summary>
+<itunes:duration>01:51:07</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/timferriss/The_Tim_Ferriss_Show_-_Mr._Money_Mustache.mp3" length="79995456"/>
+</item>
+  
+  
+<item>
+<title>
+HBR IdeaCast: Jerry Seinfeld - Stopping and Starting With Success
+</title>
+<description>
+Jerry Seinfeld shares his insights into innovation, self-criticism, and how to know when to quit. The U.S. comedian conquered 1990s television with his sitcom and is now finding a new audience for his online talk show, "Comedians in Cars Getting Coffee."
+</description>
+<pubDate>Thu, 23 Feb 2017 09:00:00 +0000</pubDate>
+<itunes:author>Harvard Business Review</itunes:author>
+<itunes:subtitle>
+Jerry Seinfeld shares his insights into innovation, self-criticism, and how to know when to quit. The U.S. comedian conquered 1990s television with his sitcom and is now finding a new audience for his online talk show, "Comedians in Cars Getting Coffee."
+</itunes:subtitle>
+<itunes:summary>
+Jerry Seinfeld shares his insights into innovation, self-criticism, and how to know when to quit. The U.S. comedian conquered 1990s television with his sitcom and is now finding a new audience for his online talk show, "Comedians in Cars Getting Coffee."
+</itunes:summary>
+<itunes:duration>2091</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/hbsp/560__Stopping_and_Starting_With_Success.mp3" length="34405608"/>
+</item>
+  
+  
+<item>
+<title>
+Bothsides TV: Glenn Beck Interview by Brent Weinstein | Upfront Summit 2017
+</title>
+<description>
+Glenn Beck Interview by Brent Weinstein | Upfront Summit 2017 by Bothsides TV
+</description>
+<pubDate>Tue, 21 Feb 2017 09:00:00 +0000</pubDate>
+<itunes:author>John Calipari</itunes:author>
+<itunes:subtitle>
+Glenn Beck Interview by Brent Weinstein | Upfront Summit 2017 by Bothsides TV
+</itunes:subtitle>
+<itunes:summary>
+Glenn Beck Interview by Brent Weinstein | Upfront Summit 2017 by Bothsides TV
+</itunes:summary>
+<itunes:duration>00:26:00</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feedproxy.google.com/~r/BothsidesTV/~5/rvjIP8qPynE/306326633-bothsidestv-glenn-beck.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+Cal Cast: DRAKE talks about his past, current projects and future plans
+</title>
+<description>
+This week's episode features a wide-ranging conversation with entertainment superstar, Drake.
+
+Drake talks about how he got his start, his biggest fear in life, upcoming projects, who he'd love to work with, his relationship with his mother and his future plans.
+</description>
+<pubDate>Sun, 19 Feb 2017 09:00:00 +0000</pubDate>
+<itunes:author>John Calipari</itunes:author>
+<itunes:subtitle>
+This week's episode features a wide-ranging conversation with entertainment superstar, Drake.
+
+Drake talks about how he got his start, his biggest fear in life, upcoming projects, who he'd love to work with, his relationship with his mother and his future plans.
+</itunes:subtitle>
+<itunes:summary>
+This week's episode features a wide-ranging conversation with entertainment superstar, Drake.
+
+Drake talks about how he got his start, his biggest fear in life, upcoming projects, who he'd love to work with, his relationship with his mother and his future plans.
+</itunes:summary>
+<itunes:duration>00:55:11</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/304655842-user-974863256-drake-talks-about-his-past-current-projects-and-future-plans.mp3" length="41340765"/>
+</item>
+  
+  
+<item>
+<title>
+On Being: Alain de Botton — The True Hard Work of Love and Relationships
+</title>
+<description>
+What if the first question we asked on a date were, "How are you crazy? I'm crazy like this"? Philosopher and writer Alain de Botton's essay "Why You Will Marry the Wrong Person" was, amazingly, the most-read article in The New York Times in the news-drenched year of 2016. As people and as a culture, he says, we would be much saner and happier if we reexamined our very view of love. How might our relationships be different — and better — if we understood that the real work of love is not in the falling, but in what comes after?
+</description>
+<pubDate>Thu, 16 Feb 2017 09:00:00 +0000</pubDate>
+<itunes:author>On Being Studios | Krista Tippett Public Productions</itunes:author>
+<itunes:subtitle>
+What if the first question we asked on a date were, "How are you crazy? I'm crazy like this"? Philosopher and writer Alain de Botton's essay "Why You Will Marry the Wrong Person" was, amazingly, the most-read article in The New York Times in the news-drenched year of 2016. As people and as a culture, he says, we would be much saner and happier if we reexamined our very view of love. How might our relationships be different — and better — if we understood that the real work of love is not in the falling, but in what comes after?
+</itunes:subtitle>
+<itunes:summary>
+What if the first question we asked on a date were, "How are you crazy? I'm crazy like this"? Philosopher and writer Alain de Botton's essay "Why You Will Marry the Wrong Person" was, amazingly, the most-read article in The New York Times in the news-drenched year of 2016. As people and as a culture, he says, we would be much saner and happier if we reexamined our very view of love. How might our relationships be different — and better — if we understood that the real work of love is not in the falling, but in what comes after?
+</itunes:summary>
+<itunes:duration>51:21</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/306909014-alain-de-botton-the-true-hard-work-of-love-and-relationships.mp3" length="50254374"/>
+</item>
+  
+  
+<item>
+<title>
+TED Radio Hour: Screen Time - Part I
+</title>
+<description>
+It's normal for us to always be glued to our screens. So how are they changing us, and how will they shape our future? This hour, TED speakers explore our ambivalent relationships with our screens. (Original broadcast date: September 11, 2015).
+</description>
+<pubDate>Tue, 15 Feb 2017 09:00:00 +0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+It's normal for us to always be glued to our screens. So how are they changing us, and how will they shape our future? This hour, TED speakers explore our ambivalent relationships with our screens. (Original broadcast date: September 11, 2015).
+</itunes:subtitle>
+<itunes:summary>
+It's normal for us to always be glued to our screens. So how are they changing us, and how will they shape our future? This hour, TED speakers explore our ambivalent relationships with our screens. (Original broadcast date: September 11, 2015).
+</itunes:summary>
+<itunes:duration>3692</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510298/media/anon.npr-mp3/npr/ted/2017/01/20170127_ted_podcast.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+The Daily: Feb. 10, 2017
+</title>
+<description>
+Is President Trump’s travel ban headed to the Supreme Court? Did the boy in the photograph make it to America? Plus: your stories about living through history.
+</description>
+<pubDate>Sun, 12 Feb 2017 09:00:00 +0000</pubDate>
+<itunes:author>The New York Times</itunes:author>
+<itunes:subtitle>
+Is President Trump’s travel ban headed to the Supreme Court? Did the boy in the photograph make it to America? Plus: your stories about living through history.
+</itunes:subtitle>
+<itunes:summary>
+Is President Trump’s travel ban headed to the Supreme Court? Did the boy in the photograph make it to America? Plus: your stories about living through history.
+</itunes:summary>
+<itunes:duration>00:20:56</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/rss.art19.com/episodes/deffb675-c456-4b7c-b050-4d2e57cecff6.mp3" length="19617750"/>
+</item>
+  
+  
+  
+<item>
+<title>
+How I Built This: Virgin - Richard Branson
+</title>
+<description>
+Richard Branson took a record shop and built it into a label, a bank, an airline, space tourism, and 200 other businesses — all under the name Virgin. But the serial entrepreneur has also had his share of failures.
+</description>
+<pubDate>Thu, 9 Feb 2017 09:00:00 +0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+Richard Branson took a record shop and built it into a label, a bank, an airline, space tourism, and 200 other businesses — all under the name Virgin. But the serial entrepreneur has also had his share of failures.
+</itunes:subtitle>
+<itunes:summary>
+Richard Branson took a record shop and built it into a label, a bank, an airline, space tourism, and 200 other businesses — all under the name Virgin. But the serial entrepreneur has also had his share of failures.
+</itunes:summary>
+<itunes:duration>2094</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510313/media/anon.npr-mp3/npr/hibt/2017/01/20170126_hibt_virgin.mp3" length="0"/>
+</item>
+  
+
+  
+<item>
+<title>
+RadioLab: Stranger in Paradise
+</title>
+<description>
+Today we travel from the storage rooms of the Smithsonian to the sandy beaches of Guadeloupe, chasing the tale of one trash can tipping raccoon.
+</description>
+<pubDate>Tue, 7 Feb 2017 09:00:00 +0000</pubDate>
+<itunes:author>WNYC Studios</itunes:author>
+<itunes:subtitle>
+Today we travel from the storage rooms of the Smithsonian to the sandy beaches of Guadeloupe, chasing the tale of one trash can tipping raccoon.
+</itunes:subtitle>
+<itunes:summary>
+Today we travel from the storage rooms of the Smithsonian to the sandy beaches of Guadeloupe, chasing the tale of one trash can tipping raccoon.
+</itunes:summary>
+<itunes:duration>43:35</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast/radiolab_podcast17strangerparadise.mp3" length="0"/>
+</item>
+  
+  
+  
+<item>
+<title>
+Something You Should Know: What Really Motivates You  and The Science of Chocolate and Weight Loss
+</title>
+<description>
+What motivates you? Money is probably high on the list. But it is important to realize that there IS a list. Money isn’t the only thing. In fact money can sometimes be a de-motivator. So you see it’s complicated. Here to explain it is Dan Ariely,he is a professor at Duke University, and author of the book Payoff: The Hidden Logic  That Shapes Our Motivation. He has some great stories of how motivation works that involve IKEA Furniture, Intel and AARP.
+</description>
+<pubDate>Sun, 5 Feb 2017 09:00:00 +0000</pubDate>
+<itunes:author>Mike Carruthers</itunes:author>
+<itunes:subtitle>
+What motivates you? Money is probably high on the list. But it is important to realize that there IS a list. Money isn’t the only thing. In fact money can sometimes be a de-motivator. So you see it’s complicated. Here to explain it is Dan Ariely,he is a professor at Duke University, and author of the book Payoff: The Hidden Logic  That Shapes Our Motivation. He has some great stories of how motivation works that involve IKEA Furniture, Intel and AARP.
+</itunes:subtitle>
+<itunes:summary>
+What motivates you? Money is probably high on the list. But it is important to realize that there IS a list. Money isn’t the only thing. In fact money can sometimes be a de-motivator. So you see it’s complicated. Here to explain it is Dan Ariely,he is a professor at Duke University, and author of the book Payoff: The Hidden Logic  That Shapes Our Motivation. He has some great stories of how motivation works that involve IKEA Furniture, Intel and AARP.
+</itunes:summary>
+<itunes:duration>00:48:04</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/rss.art19.com/episodes/0126d609-3f15-4b02-b695-17002315e033.mp3" length="37514344"/>
+</item>
+  
+  
+  
+<item>
+<title>
+This American Life: Didn’t We Solve This One?
+</title>
+<description>
+We’ve fought two wars since 9/11. We got help from tens of thousands of Iraqis and Afghans—some were targeted or killed because they helped us. We owe these people. We’ve passed laws that say so. So why has it been so hard for us to get many of them to safety?
+</description>
+<pubDate>Thu, 2 Feb 2017 09:00:00 +0000</pubDate>
+<itunes:author>This American Life</itunes:author>
+<itunes:subtitle>
+We’ve fought two wars since 9/11. We got help from tens of thousands of Iraqis and Afghans—some were targeted or killed because they helped us. We owe these people. We’ve passed laws that say so. So why has it been so hard for us to get many of them to safety?
+</itunes:subtitle>
+<itunes:summary>
+We’ve fought two wars since 9/11. We got help from tens of thousands of Iraqis and Afghans—some were targeted or killed because they helped us. We owe these people. We’ve passed laws that say so. So why has it been so hard for us to get many of them to safety?
+</itunes:summary>
+<itunes:duration>01:03:59</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/607.mp3" length="0"/>
+</item>
+  
+  
+  
+<item>
+<title>
+Reply All: Man of the People
+</title>
+<description>
+This week — a new technology falls into the wrong hands.
+</description>
+<pubDate>Tue, 31 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Gimlet</itunes:author>
+<itunes:subtitle>
+This week — a new technology falls into the wrong hands.
+</itunes:subtitle>
+<itunes:summary>
+This week — a new technology falls into the wrong hands.
+</itunes:summary>
+<itunes:duration>2434</itunes:duration>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/GLT1103232835.mp3" length="58435709"/>
+</item>
+  
+
+  
+<item>
+<title>
+Freakonomics Radio: Is the American Dream Really Dead?
+</title>
+<description>
+For years, economists promised that global free trade would be mostly win-win. Now they admit the pace of change has been "traumatic." This has already led to a political insurrection -- so what's next?
+</description>
+<pubDate>Sun, 29 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Stephen J. Dubner and WNYC Studios</itunes:author>
+<itunes:subtitle>
+For years, economists promised that global free trade would be mostly win-win. Now they admit the pace of change has been "traumatic." This has already led to a political insurrection -- so what's next?
+</itunes:subtitle>
+<itunes:summary>
+For years, economists promised that global free trade would be mostly win-win. Now they admit the pace of change has been "traumatic." This has already led to a political insurrection -- so what's next?
+</itunes:summary>
+<itunes:duration>39:26</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/freakonomics_podcast/freakonomics_podcast011117.mp3" length="0"/>
+</item>
+  
+  
+  
+<item>
+<title>
+Vox's The Weeds: Inauguration Special
+</title>
+<description>
+Shortly after the inauguration ceremonies ended, Ezra, Matt, and Sarah gathered to analyze what it all means in the first Trump-era Weeds episode.
+</description>
+<pubDate>Thu, 26 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Vox / Panoply / Ezra Klein / Sarah Kliff / Matt Yglesias</itunes:author>
+<itunes:subtitle>
+Shortly after the inauguration ceremonies ended, Ezra, Matt, and Sarah gathered to analyze what it all means in the first Trump-era Weeds episode.
+</itunes:subtitle>
+<itunes:summary>
+Shortly after the inauguration ceremonies ended, Ezra, Matt, and Sarah gathered to analyze what it all means in the first Trump-era Weeds episode.
+</itunes:summary>
+<itunes:duration>2597</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/PP1886896910.mp3" length="31166066"/>
+</item>
+  
+  
+<item>
+<title>
+The Ezra Klein Show: Elizabeth Kolbert: We have locked in centuries of climate change
+</title>
+<description>
+Elizabeth Kolbert covers climate change for the New Yorker. She's the Pulitzer prize-winning author of The Sixth Extinction. And she recently wrote a paragraph I can't stop thinking about. "The problem with global warming—and the reason it continues to resist illustration, even as the streets flood and the forests die and the mussels rot on the shores—is that experience is an inadequate guide to what’s going on.
+</description>
+<pubDate>Tue, 24 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Vox / Panoply</itunes:author>
+<itunes:subtitle>
+Elizabeth Kolbert covers climate change for the New Yorker. She's the Pulitzer prize-winning author of The Sixth Extinction. And she recently wrote a paragraph I can't stop thinking about. "The problem with global warming—and the reason it continues to resist illustration, even as the streets flood and the forests die and the mussels rot on the shores—is that experience is an inadequate guide to what’s going on.
+</itunes:subtitle>
+<itunes:summary>
+Elizabeth Kolbert covers climate change for the New Yorker. She's the Pulitzer prize-winning author of The Sixth Extinction. And she recently wrote a paragraph I can't stop thinking about. "The problem with global warming—and the reason it continues to resist illustration, even as the streets flood and the forests die and the mussels rot on the shores—is that experience is an inadequate guide to what’s going on.
+</itunes:summary>
+<itunes:duration>4711</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/PP9628912751.mp3" length="56542981"/>
+</item>
+  
+  
+<item>
+<title>
+Debrief By Bloomberg News: Debrief: Jamie Dimon on Trump, Taxes and a U.S. Renaissance
+</title>
+<description>
+In this episode, we speak with Jamie Dimon, the billionaire CEO of JPMorgan whose storied business career includes stints at Citigroup and American Express. The New York Times once called him "Obama's favorite banker.'' But for now, it looks like he won't be joining the Trump administration. We caught up with Jamie in mid-December in Detroit, where he was speaking at the restored Garden Theater about the bank's $100 million investment in revitalizing the city.
+</description>
+<pubDate>Sun, 22 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Bloomberg News</itunes:author>
+<itunes:subtitle>
+In this episode, we speak with Jamie Dimon, the billionaire CEO of JPMorgan whose storied business career includes stints at Citigroup and American Express. The New York Times once called him "Obama's favorite banker.'' But for now, it looks like he won't be joining the Trump administration. We caught up with Jamie in mid-December in Detroit, where he was speaking at the restored Garden Theater about the bank's $100 million investment in revitalizing the city.
+</itunes:subtitle>
+<itunes:summary>
+In this episode, we speak with Jamie Dimon, the billionaire CEO of JPMorgan whose storied business career includes stints at Citigroup and American Express. The New York Times once called him "Obama's favorite banker.'' But for now, it looks like he won't be joining the Trump administration. We caught up with Jamie in mid-December in Detroit, where he was speaking at the restored Garden Theater about the bank's $100 million investment in revitalizing the city.
+</itunes:summary>
+<itunes:duration>52:25</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/assets.bwbx.io/av/users/iqjWHBFdfxIU/v4FYQdrNFcM4/v4.mp3" length="0"/>
+</item>
+  
+  
+  
+<item>
+<title>
+Freakonomics Radio: The Men Who Started a Thinking Revolution
+</title>
+<description>
+Starting in the late 1960s, the Israeli psychologists Amos Tversky and Danny Kahneman began to redefine how the human mind actually works. Michael Lewis's new book The Undoing Project explains how the movement they started -- now known as behavioral economics -- has had such a profound effect on academia, governments, and society at large.
+</description>
+<pubDate>Thu, 19 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Stephen J. Dubner and WNYC Studios</itunes:author>
+<itunes:subtitle>
+Starting in the late 1960s, the Israeli psychologists Amos Tversky and Danny Kahneman began to redefine how the human mind actually works. Michael Lewis's new book The Undoing Project explains how the movement they started -- now known as behavioral economics -- has had such a profound effect on academia, governments, and society at large.
+</itunes:subtitle>
+<itunes:summary>
+Starting in the late 1960s, the Israeli psychologists Amos Tversky and Danny Kahneman began to redefine how the human mind actually works. Michael Lewis's new book The Undoing Project explains how the movement they started -- now known as behavioral economics -- has had such a profound effect on academia, governments, and society at large.
+</itunes:summary>
+<itunes:duration>35:07</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/freakonomics_podcast/freakonomics_podcast010417.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+Radiolab: Lose Lose
+</title>
+<description>
+This episode we look at a high profile sporting event where, thanks to a quirk in the tournament rules, the best shot at winning was … to lose.
+</description>
+<pubDate>Tue, 17 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>WNYC Studios</itunes:author>
+<itunes:subtitle>
+This episode we look at a high profile sporting event where, thanks to a quirk in the tournament rules, the best shot at winning was … to lose.
+</itunes:subtitle>
+<itunes:summary>
+This episode we look at a high profile sporting event where, thanks to a quirk in the tournament rules, the best shot at winning was … to lose.
+</itunes:summary>
+<itunes:duration>25:18</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/radiolab_podcast/radiolab_podcast16loselose.mp3" length="0"/>
+</item>
+  
+  
+  
+<item>
+<title>
+Debrief by Bloomberg: Obama Says His Daughters Won't Work on Wall Street
+</title>
+<description>
+When we spoke with President Obama in June 2016, the world looked like a very different place. The U.K. was poised for a referendum on whether to remain in the EU, and all the smart money was betting the answer would be ``yes.'' Hillary Clinton and Donald Trump were slugging it out in the polls. For many people, a Clinton victory seemed all but guaranteed.
+</description>
+<pubDate>Sun, 15 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Bloomberg News</itunes:author>
+<itunes:subtitle>
+When we spoke with President Obama in June 2016, the world looked like a very different place. The U.K. was poised for a referendum on whether to remain in the EU, and all the smart money was betting the answer would be ``yes.'' Hillary Clinton and Donald Trump were slugging it out in the polls. For many people, a Clinton victory seemed all but guaranteed.
+</itunes:subtitle>
+<itunes:summary>
+When we spoke with President Obama in June 2016, the world looked like a very different place. The U.K. was poised for a referendum on whether to remain in the EU, and all the smart money was betting the answer would be ``yes.'' Hillary Clinton and Donald Trump were slugging it out in the polls. For many people, a Clinton victory seemed all but guaranteed.
+</itunes:summary>
+<itunes:duration>55:28</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/assets.bwbx.io/av/users/iqjWHBFdfxIU/vn4MkxNMAhgk/v3.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+Adulthood Made Easy: Getting Your Sh*t Together with Sarah Knight
+</title>
+<description>
+Sarah Knight author of The Life-Changing Magic of Not Giving a F*ck: How to Stop Spending Time You Don’t Have with People You Don’t Like Doing Things You Don’t Want to Do
+</description>
+<pubDate>Thu, 12 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Real Simple / Panoply</itunes:author>
+<itunes:subtitle>
+Sarah Knight author of The Life-Changing Magic of Not Giving a F*ck: How to Stop Spending Time You Don’t Have with People You Don’t Like Doing Things You Don’t Want to Do
+</itunes:subtitle>
+<itunes:summary>
+Sarah Knight author of The Life-Changing Magic of Not Giving a F*ck: How to Stop Spending Time You Don’t Have with People You Don’t Like Doing Things You Don’t Want to Do
+</itunes:summary>
+<itunes:duration>2144</itunes:duration>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/PP7049199010.mp3" length="85766269"/>
+</item>
+  
+  
+<item>
+<title>
+Stuff You Should Know: Can you live without a bank account?
+</title>
+<description>
+Seems like it would be nearly impossible to live without a bank account these days. But it is possible! Learn all about banking and personal finance in today's riveting episode.
+</description>
+<pubDate>Tue, 10 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>HowStuffWorks.com</itunes:author>
+<itunes:subtitle>
+Seems like it would be nearly impossible to live without a bank account these days. But it is possible! Learn all about banking and personal finance in today's riveting episode.
+</itunes:subtitle>
+<itunes:summary>
+Seems like it would be nearly impossible to live without a bank account these days. But it is possible! Learn all about banking and personal finance in today's riveting episode.
+</itunes:summary>
+<itunes:duration>00:53:55</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/streaming.howstuffworks.com/sysk/2016-12-27-sysk-living-without-bank-account-001.mp3" length="18268079"/>
+</item>
+  
+  
+<item>
+<title>
+Freakonomics Radio: How to Be More Productive
+</title>
+<description>
+In this busy time of year, we could all use some tips on how to get more done in less time. First, however, a warning: there's a big difference between being busy and being productive.
+</description>
+<pubDate>Sun, 08 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Stephen J. Dubner and WNYC Studios</itunes:author>
+<itunes:subtitle>
+In this busy time of year, we could all use some tips on how to get more done in less time. First, however, a warning: there's a big difference between being busy and being productive.
+</itunes:subtitle>
+<itunes:summary>
+In this busy time of year, we could all use some tips on how to get more done in less time. First, however, a warning: there's a big difference between being busy and being productive.
+</itunes:summary>
+<itunes:duration>39:20</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/freakonomics_podcast/freakonomics_podcast122116.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+Waking Up with Sam Harris: The Putin Question
+</title>
+<description>
+In this episode of the Waking Up podcast, Sam Harris speaks with Garry Kasparov about the problem of waning American power, the rise of Putin, the coming presidency of Donald Trump, computer chess, the future of artificial intelligence, and other topics.
+</description>
+<pubDate>Fri, 06 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>Waking Up with Sam Harris</itunes:author>
+<itunes:subtitle>
+In this episode of the Waking Up podcast, Sam Harris speaks with Garry Kasparov about the problem of waning American power, the rise of Putin, the coming presidency of Donald Trump, computer chess, the future of artificial intelligence, and other topics.
+</itunes:subtitle>
+<itunes:summary>
+In this episode of the Waking Up podcast, Sam Harris speaks with Garry Kasparov about the problem of waning American power, the rise of Putin, the coming presidency of Donald Trump, computer chess, the future of artificial intelligence, and other topics.
+</itunes:summary>
+<itunes:duration>01:31:42</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/299790789-samharrisorg-58-the-putin-factor.mp3" length="131845437"/>
+</item>
+  
+
+<item>
+<title>
+a16z Podcast: Mobility and the Global Refugee Crisis
+</title>
+<description>
+We throw around words like 'crisis' very easily, but this is a global crisis, and it is of historic proportions," says current U.S. Deputy Secretary of State Tony Blinken about the refugee crisis (for which he and his department mobilized a response that significantly accelerated government efforts to assist refugees, as well as engage the tech sector).
+</description>
+<pubDate>Tue, 03 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>a16z</itunes:author>
+<itunes:subtitle>
+We throw around words like 'crisis' very easily, but this is a global crisis, and it is of historic proportions," says current U.S. Deputy Secretary of State Tony Blinken about the refugee crisis (for which he and his department mobilized a response that significantly accelerated government efforts to assist refugees, as well as engage the tech sector).
+</itunes:subtitle>
+<itunes:summary>
+We throw around words like 'crisis' very easily, but this is a global crisis, and it is of historic proportions," says current U.S. Deputy Secretary of State Tony Blinken about the refugee crisis (for which he and his department mobilized a response that significantly accelerated government efforts to assist refugees, as well as engage the tech sector).
+</itunes:summary>
+<itunes:duration>00:34:18</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/298159301-a16z-refugee-crisis-mobility-technology.mp3" length="24699238"/>
+</item>
+  
+  
+ 
+<item>
+<title>
+This American Life: #604: 20 Years Later
+</title>
+<description>
+Samantha Broun talks to cops, politicians, inmates, and family closest to the crime that changed policy 20 years ago for inmates serving life sentences in Pennsylvania. It's a crime Samantha knows well, because it happened to her mom.
+</description>
+<pubDate>Sun, 01 Jan 2017 09:00:00 +0000</pubDate>
+<itunes:author>This American Life</itunes:author>
+<itunes:subtitle>
+Samantha Broun talks to cops, politicians, inmates, and family closest to the crime that changed policy 20 years ago for inmates serving life sentences in Pennsylvania. It's a crime Samantha knows well, because it happened to her mom.
+</itunes:subtitle>
+<itunes:summary>
+Samantha Broun talks to cops, politicians, inmates, and family closest to the crime that changed policy 20 years ago for inmates serving life sentences in Pennsylvania. It's a crime Samantha knows well, because it happened to her mom.
+</itunes:summary>
+<itunes:duration>01:01:40</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/604.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+TED Talks (audio): How AI can bring on a second Industrial Revolution | Kevin Kelly
+</title>
+<description>
+"The actual path of a raindrop as it goes down the valley is unpredictable, but the general direction is inevitable," says digital visionary Kevin Kelly -- and technology is much the same, driven by patterns that are surprising but inevitable.
+</description>
+<pubDate>Thu, 29 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Kevin Kelly</itunes:author>
+<itunes:subtitle>
+"The actual path of a raindrop as it goes down the valley is unpredictable, but the general direction is inevitable," says digital visionary Kevin Kelly -- and technology is much the same, driven by patterns that are surprising but inevitable.
+</itunes:subtitle>
+<itunes:summary>
+"The actual path of a raindrop as it goes down the valley is unpredictable, but the general direction is inevitable," says digital visionary Kevin Kelly -- and technology is much the same, driven by patterns that are surprising but inevitable.
+</itunes:summary>
+<itunes:duration>00:13:44</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/download.ted.com/talks/KevinKelly_2016T.mp3" length="17565452"/>
+</item>
+  
+  
+  
+<item>
+<title>
+StarTalk Radio: The Evolution of Love and Sex with Dan Savage
+</title>
+<description>
+Dim the lights and get comfy when Neil Tyson chats with sex columnist Dan Savage about modern love. Chuck Nice and biological anthropologist Helen Fisher look at sex scientifically, and Bill Nye rants about… what else?
+</description>
+<pubDate>Tue, 27 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Neil deGrasse Tyson</itunes:author>
+<itunes:subtitle>
+Dim the lights and get comfy when Neil Tyson chats with sex columnist Dan Savage about modern love. Chuck Nice and biological anthropologist Helen Fisher look at sex scientifically, and Bill Nye rants about… what else?
+</itunes:subtitle>
+<itunes:summary>
+Dim the lights and get comfy when Neil Tyson chats with sex columnist Dan Savage about modern love. Chuck Nice and biological anthropologist Helen Fisher look at sex scientifically, and Bill Nye rants about… what else?
+</itunes:summary>
+<itunes:duration>00:54:30</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/204578482-startalk-the-evolution-of-love-and-sex-with-dan-savage.mp3" length="53114959"/>
+</item>
+  
+  
+<item>
+<title>
+The Wheeler Centre: Radiolab, Risk and Genius - Jad Abumrad and Andrew Denton
+</title>
+<description>
+Radiolab is one of the world’s most popular podcasts. Admired for its gentle explorations of big questions, the show – which was collecting listeners in their millions long before podcasting arrived at the mainstream’s door – has won many significant awards.
+</description>
+<pubDate>Sun, 25 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>The Wheeler Centre</itunes:author>
+<itunes:subtitle>
+Radiolab is one of the world’s most popular podcasts. Admired for its gentle explorations of big questions, the show – which was collecting listeners in their millions long before podcasting arrived at the mainstream’s door – has won many significant awards.
+</itunes:subtitle>
+<itunes:summary>
+Radiolab is one of the world’s most popular podcasts. Admired for its gentle explorations of big questions, the show – which was collecting listeners in their millions long before podcasting arrived at the mainstream’s door – has won many significant awards.
+</itunes:summary>
+<itunes:duration>01:14:51</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/http://wheeler-centre-heracles.s3.amazonaws.com/wheeler-centre/assets/92/f7b590c5c711e6a29eb5e91be9947b/974d7b20c5c711e6ab82c11d98abe925_audio_mp3.mp3" length="71869078"/>
+</item>
+  
+
+  
+<item>
+<title>
+The Ezra Klein Show: Trevor Noah, host of The Daily Show
+</title>
+<description>
+This is a serious conversation with a very funny man.Trevor Noah is the host of Comedy Central's the Daily Show. He's also a stand-up comic who grew up in apartheid South Africa, the son of a black mother and a white father. That was illegal in apartheid-era South Africa, so Noah grew up hiding his real parentage, only seeing his father in carefully controlled circumstances.
+</description>
+<pubDate>Thu, 23 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Vox / Panoply</itunes:author>
+<itunes:subtitle>
+This is a serious conversation with a very funny man.Trevor Noah is the host of Comedy Central's the Daily Show. He's also a stand-up comic who grew up in apartheid South Africa, the son of a black mother and a white father. That was illegal in apartheid-era South Africa, so Noah grew up hiding his real parentage, only seeing his father in carefully controlled circumstances.
+</itunes:subtitle>
+<itunes:summary>
+This is a serious conversation with a very funny man.Trevor Noah is the host of Comedy Central's the Daily Show. He's also a stand-up comic who grew up in apartheid South Africa, the son of a black mother and a white father. That was illegal in apartheid-era South Africa, so Noah grew up hiding his real parentage, only seeing his father in carefully controlled circumstances.
+</itunes:summary>
+<itunes:duration>4385</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/PP3368056596.mp3" length="52631196"/>
+</item>
+  
+
+  
+<item>
+<title>
+Tim Ferriss: Testing the "Impossible": 17 Questions That Changed My Life
+</title>
+<description>
+This is a special episode of the podcast. It's a sample chapter from my new book, Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers.
+</description>
+<pubDate>Tue, 21 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Tim Ferriss: Bestselling Author, Human Guinea Pig</itunes:author>
+<itunes:subtitle>
+This is a special episode of the podcast. It's a sample chapter from my new book, Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers.
+</itunes:subtitle>
+<itunes:summary>
+This is a special episode of the podcast. It's a sample chapter from my new book, Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers.
+</itunes:summary>
+<itunes:duration>51:58</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/timferriss/Tim_Ferriss_Show_-_17_Questions_That_Changed_My_Life.mp3" length="37406592"/>
+</item> 
+  
+  
+<item>
+<title>
+Crimetown: Chapter 1: Divine Providence
+</title>
+<description>
+Welcome to Providence, Rhode Island, a city where organized crime corrupted every aspect of public life. In the first episode of Crimetown, a young prosecutor named Buddy Cianci takes on a gruesome murder case. As the investigation heats up, Buddy goes head to head with the most notorious mob boss in the country—and launches a career that will change Providence forever.
+</description>
+<pubDate>Sun, 18 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Gimlet</itunes:author>
+<itunes:subtitle>
+Welcome to Providence, Rhode Island, a city where organized crime corrupted every aspect of public life. In the first episode of Crimetown, a young prosecutor named Buddy Cianci takes on a gruesome murder case. As the investigation heats up, Buddy goes head to head with the most notorious mob boss in the country—and launches a career that will change Providence forever.
+</itunes:subtitle>
+<itunes:summary>
+Welcome to Providence, Rhode Island, a city where organized crime corrupted every aspect of public life. In the first episode of Crimetown, a young prosecutor named Buddy Cianci takes on a gruesome murder case. As the investigation heats up, Buddy goes head to head with the most notorious mob boss in the country—and launches a career that will change Providence forever.
+</itunes:summary>
+<itunes:duration>1851</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/GLT1591351781.mp3" length="44426135"/>
+</item>
+  
+  
+  
+<item>
+<title>
+TED Radio Hour: Headspace
+</title>
+<description>
+Some of our most powerful feelings — stress, depression, despair — are the hardest to understand. This hour, TED speakers challenge assumptions about emotion, disquiet and the essence of well-being.
+</description>
+<pubDate>Thu, 15 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+Some of our most powerful feelings — stress, depression, despair — are the hardest to understand. This hour, TED speakers challenge assumptions about emotion, disquiet and the essence of well-being.
+</itunes:subtitle>
+<itunes:summary>
+Some of our most powerful feelings — stress, depression, despair — are the hardest to understand. This hour, TED speakers challenge assumptions about emotion, disquiet and the essence of well-being.
+</itunes:summary>
+<itunes:duration>3234</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510298/media/anon.npr-mp3/npr/ted/2016/12/20161203_ted_tedpod.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+Freakonomics Radio: Bad Medicine, Part 1: The Story of 98.6
+</title>
+<description>
+We tend to think of medicine as a science, but for most of human history it has been scientific-ish at best.
+</description>
+<pubDate>Tue, 13 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Stephen J. Dubner and WNYC Studios</itunes:author>
+<itunes:subtitle>
+We tend to think of medicine as a science, but for most of human history it has been scientific-ish at best.
+</itunes:subtitle>
+<itunes:summary>
+We tend to think of medicine as a science, but for most of human history it has been scientific-ish at best.
+</itunes:summary>
+<itunes:duration>44:55</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/freakonomics_podcast/freakonomics_podcast113016.mp3" length="0"/>
+</item>
+  
+  
+  
+<item>
+<title>
+Pessimists Archive: The Good Old Days
+</title>
+<description>
+When exactly were the good ol’ days? In this new episode of the Pessimists Archive podcast, we go back in time to find out -- exploring every moment that people claimed was a golden age, and trying to understand why, as Trump’s victory has shown, nostalgia is such a powerful force.
+</description>
+<pubDate>Sun, 11 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>PessimistsArc</itunes:author>
+<itunes:subtitle>
+When exactly were the good ol’ days? In this new episode of the Pessimists Archive podcast, we go back in time to find out -- exploring every moment that people claimed was a golden age, and trying to understand why, as Trump’s victory has shown, nostalgia is such a powerful force.
+</itunes:subtitle>
+<itunes:summary>
+When exactly were the good ol’ days? In this new episode of the Pessimists Archive podcast, we go back in time to find out -- exploring every moment that people claimed was a golden age, and trying to understand why, as Trump’s victory has shown, nostalgia is such a powerful force.
+</itunes:summary>
+<itunes:duration>00:34:18</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/292778555-pessimistsarc-the-good-old-days.mp3" length="65861927"/>
+</item>
+  
+  
+<item>
+<title>
+a16z: Old Food, New Tech -- 'Clean Meat'
+</title>
+<description>
+You’ve heard the numbers or some statistic like this: By the year 2050, we’ll need to feed 9.7 billion humans on the planet. Our current production and meat-making methods -- growing crops to feed to animals to turn them into food -- can’t keep up … not to mention it’s not very good for the environment.
+</description>
+<pubDate>Thu, 08 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>a16z</itunes:author>
+<itunes:subtitle>
+You’ve heard the numbers or some statistic like this: By the year 2050, we’ll need to feed 9.7 billion humans on the planet. Our current production and meat-making methods -- growing crops to feed to animals to turn them into food -- can’t keep up … not to mention it’s not very good for the environment.
+</itunes:subtitle>
+<itunes:summary>
+You’ve heard the numbers or some statistic like this: By the year 2050, we’ll need to feed 9.7 billion humans on the planet. Our current production and meat-making methods -- growing crops to feed to animals to turn them into food -- can’t keep up … not to mention it’s not very good for the environment.
+</itunes:summary>
+<itunes:duration>25:25</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/294456349-a16z-meatless-meats-clean-meats.mp3" length="18304776"/>
+</item>
+  
+  
+<item>
+<title>
+Exponential Wisdom: Inside the Future of Healthcare
+</title>
+<description>
+Dan discusses his recent trip to the Human Longevity Inc. Health Nucleus and why he believes it is the best clinical experience in the world. Many species on this planet live for hundreds of years, why should we accept a typical life expectancy of 70 or 80 years.
+</description>
+<pubDate>Tue, 06 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Peter Diamandis and Dan Sullivan</itunes:author>
+<itunes:subtitle>
+Dan discusses his recent trip to the Human Longevity Inc. Health Nucleus and why he believes it is the best clinical experience in the world. Many species on this planet live for hundreds of years, why should we accept a typical life expectancy of 70 or 80 years.
+</itunes:subtitle>
+<itunes:summary>
+Dan discusses his recent trip to the Human Longevity Inc. Health Nucleus and why he believes it is the best clinical experience in the world. Many species on this planet live for hundreds of years, why should we accept a typical life expectancy of 70 or 80 years.
+</itunes:summary>
+<itunes:duration>28:39</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/content.blubrry.com/exponentialwisdom/ExponentialWisdomPodcast_Ep_21_HLI_early_warnings.mp3" length="13755709"/>
+</item>
+  
+  
+<item>
+<title>
+TED Radio Hour: Finite
+</title>
+<description>
+In a world with limited resources, can we find ways to salvage what's disappearing? Can we innovate our way out of a finite landscape? This hour, TED speakers explore ideas about living with less.
+</description>
+<pubDate>Sun, 04 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+In a world with limited resources, can we find ways to salvage what's disappearing? Can we innovate our way out of a finite landscape? This hour, TED speakers explore ideas about living with less.
+</itunes:subtitle>
+<itunes:summary>
+In a world with limited resources, can we find ways to salvage what's disappearing? Can we innovate our way out of a finite landscape? This hour, TED speakers explore ideas about living with less.
+</itunes:summary>
+<itunes:duration>3149</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510298/media/anon.npr-mp3/npr/ted/2015/07/20150717_ted_finite.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+Science Vs: Antidepressants
+</title>
+<description>
+There’s an intriguing body of research that suggests the power of antidepressants doesn’t come from chemicals in the drugs, but from the power of placebo. Not everyone agrees, though.
+</description>
+<pubDate>Thu, 01 Dec 2016 09:00:00 +0000</pubDate>
+<itunes:author>Gimlet</itunes:author>
+<itunes:subtitle>
+There’s an intriguing body of research that suggests the power of antidepressants doesn’t come from chemicals in the drugs, but from the power of placebo. Not everyone agrees, though.
+</itunes:subtitle>
+<itunes:summary>
+There’s an intriguing body of research that suggests the power of antidepressants doesn’t come from chemicals in the drugs, but from the power of placebo. Not everyone agrees, though.
+</itunes:summary>
+<itunes:duration>2209</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/GLT4311202767.mp3" length="53037766"/>
+</item>
+  
+  
+
+<item>
+<title>
+Beyond the To Do List: Investing - Jonathan Fields on Vitality, Connection and Contribution
+</title>
+<description>
+Jonathan Fields of The Good Life Project talks about investing in your future by increasing your own vitality, connection and contribution.
+</description>
+<pubDate>Tue, 29 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>Erik Fisher, Productivity Podcaster, Author, and Coach</itunes:author>
+<itunes:subtitle>
+Jonathan Fields of The Good Life Project talks about investing in your future by increasing your own vitality, connection and contribution.
+</itunes:subtitle>
+<itunes:summary>
+Jonathan Fields of The Good Life Project talks about investing in your future by increasing your own vitality, connection and contribution.
+</itunes:summary>
+<itunes:duration>46:30</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/iwudailydevotion/BTTDL155.mp3" length="22507083"/>
+</item>
+  
+  
+<item>
+<title>
+Planet Money: How Venezuela Imploded
+</title>
+<description>
+Venezuela has just about every economic advantage a country could ask for: fertile land, good climate, educated population, and oil, lots and lots of oil. So how did it go so wrong?
+</description>
+<pubDate>Sun, 27 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+Venezuela has just about every economic advantage a country could ask for: fertile land, good climate, educated population, and oil, lots and lots of oil. So how did it go so wrong?
+</itunes:subtitle>
+<itunes:summary>
+Venezuela has just about every economic advantage a country could ask for: fertile land, good climate, educated population, and oil, lots and lots of oil. So how did it go so wrong?
+</itunes:summary>
+<itunes:duration>1140</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510289/media/anon.npr-mp3/npr/pmoney/2016/10/20161021_pmoney_podcast102116.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+Exponential Wisdom: Living Long Enough to Live Forever
+</title>
+<description>
+Peter talks about Ray Kurzweil’s belief that children born today will have the ability to have an indefinite lifespan. Dan describes his thoughts on attitude and why the future is something you must work toward. Peter puts into perspective the amazing times we are living in, citing how the human lifespan has doubled over the last century.
+</description>
+<pubDate>Thu, 24 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>TPeter Diamandis and Dan Sullivan</itunes:author>
+<itunes:subtitle>
+Peter talks about Ray Kurzweil’s belief that children born today will have the ability to have an indefinite lifespan. Dan describes his thoughts on attitude and why the future is something you must work toward. Peter puts into perspective the amazing times we are living in, citing how the human lifespan has doubled over the last century.
+</itunes:subtitle>
+<itunes:summary>
+Peter talks about Ray Kurzweil’s belief that children born today will have the ability to have an indefinite lifespan. Dan describes his thoughts on attitude and why the future is something you must work toward. Peter puts into perspective the amazing times we are living in, citing how the human lifespan has doubled over the last century.
+</itunes:summary>
+<itunes:duration>26:19</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/content.blubrry.com/exponentialwisdom/ExponentialWisdomPodcast_EP_26_Longevity.mp3" length="18946761"/>
+</item>
+  
+  
+<item>
+<title>
+The Tim Ferriss Show: My Life Extension Pilgrimage to Easter Island
+</title>
+<description>
+This episode was a blast. It was a tropical exploration of biology, life extension, and all good things. This included a lot of Carmenere wine and good old-fashioned ball busting.
+</description>
+<pubDate>Tue, 22 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>Tim Ferriss: Bestselling Author, Human Guinea Pig</itunes:author>
+<itunes:subtitle>
+This episode was a blast. It was a tropical exploration of biology, life extension, and all good things. This included a lot of Carmenere wine and good old-fashioned ball busting.
+</itunes:subtitle>
+<itunes:summary>
+This episode was a blast. It was a tropical exploration of biology, life extension, and all good things. This included a lot of Carmenere wine and good old-fashioned ball busting.
+</itunes:summary>
+<itunes:duration>03:10:22</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/timferriss/The_Tim_Ferriss_Show_-_My_Life_Extension_Pilgrimage_to_Easter_Island.mp3" length="137063236"/>
+</item>
+  
+  
+<item>
+<title>
+Exponent: Facebook - Sins of Commission and Omission
+</title>
+<description>
+Ben and James discuss the fake news epidemic on Facebook, from its structural causes to its effects. Then, Facebook committed sins of omission; the tech industry ought not do the same.
+</description>
+<pubDate>Sun, 20 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>Ben Thompson / James Allworth</itunes:author>
+<itunes:subtitle>
+Ben and James discuss the fake news epidemic on Facebook, from its structural causes to its effects. Then, Facebook committed sins of omission; the tech industry ought not do the same.
+</itunes:subtitle>
+<itunes:summary>
+Ben and James discuss the fake news epidemic on Facebook, from its structural causes to its effects. Then, Facebook committed sins of omission; the tech industry ought not do the same.
+</itunes:summary>
+<itunes:duration>1:16:17</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/content.blubrry.com/exponent/exponent96.mp3" length="73236566"/>
+</item>
+  
+  
+<item>
+<title>
+POLITICO's Off Message: Best of Off Message
+</title>
+<description>
+In honor of Election Day, Glenn Thrush takes a look back at his favorite moments on the show - interviews that framed the narrative, made news, gave insight into the candidates' mindsets or, at least, gave us a laugh.
+</description>
+<pubDate>Thu, 17 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>POLITICO</itunes:author>
+<itunes:subtitle>
+In honor of Election Day, Glenn Thrush takes a look back at his favorite moments on the show - interviews that framed the narrative, made news, gave insight into the candidates' mindsets or, at least, gave us a laugh.
+</itunes:subtitle>
+<itunes:summary>
+In honor of Election Day, Glenn Thrush takes a look back at his favorite moments on the show - interviews that framed the narrative, made news, gave insight into the candidates' mindsets or, at least, gave us a laugh.
+</itunes:summary>
+<itunes:duration>2360</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/POL1866293674.mp3" length="56641410"/>
+</item>
+  
+  
+<item>
+<title>
+Freakonomics Radio: How Much Does the President Really Matter? (Rebroadcast)
+</title>
+<description>
+The U.S. president is often called the "leader of free world." But if you ask an economist or a Constitutional scholar how much the occupant of the Oval Office matters, they won't say much. We look at what the data have to say about measuring leadership, and its impact on the economy and the country.
+</description>
+<pubDate>Tue, 15 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>Stephen J. Dubner and WNYC Studiosy</itunes:author>
+<itunes:subtitle>
+The U.S. president is often called the "leader of free world." But if you ask an economist or a Constitutional scholar how much the occupant of the Oval Office matters, they won't say much. We look at what the data have to say about measuring leadership, and its impact on the economy and the country.
+</itunes:subtitle>
+<itunes:summary>
+The U.S. president is often called the "leader of free world." But if you ask an economist or a Constitutional scholar how much the occupant of the Oval Office matters, they won't say much. We look at what the data have to say about measuring leadership, and its impact on the economy and the country.
+</itunes:summary>
+<itunes:duration>33:26</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/freakonomics_podcast/freakonomics_podcast110916.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+The Minefiled: What is the meaning of ‘Trump’?
+</title>
+<description>
+The United States became a different nation on 8 November, with the election of Donald Trump, than it was the day before.
+</description>
+<pubDate>Sun, 13 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>ABC Radio National</itunes:author>
+<itunes:subtitle>
+The United States became a different nation on 8 November, with the election of Donald Trump, than it was the day before.
+</itunes:subtitle>
+<itunes:summary>
+The United States became a different nation on 8 November, with the election of Donald Trump, than it was the day before.
+</itunes:summary>
+<itunes:duration>37:36</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/mpegmedia.abc.net.au/rn/podcast/2016/11/mld_20161110_1130.mp3" length="36097536"/>
+</item>
+  
+  
+  
+<item>
+<title>
+This American Life: Master of Her Domain… Name
+</title>
+<description>
+A story about Hillary Clinton that offers a different picture than what we’ve been hearing from both sides during this campaign. And some funny stuff, because everyone’s tired of the election.
+</description>
+<pubDate>Fri, 11 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>This American Life</itunes:author>
+<itunes:subtitle>
+A story about Hillary Clinton that offers a different picture than what we’ve been hearing from both sides during this campaign. And some funny stuff, because everyone’s tired of the election.
+</itunes:subtitle>
+<itunes:summary>
+A story about Hillary Clinton that offers a different picture than what we’ve been hearing from both sides during this campaign. And some funny stuff, because everyone’s tired of the election.
+</itunes:summary>
+<itunes:duration>59:43</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feed.thisamericanlife.org/~r/talpodcast/~5/f4PeuxUdVYE/601.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+Freakonomics Radio: Why Are We Still Using Cash?
+</title>
+<description>
+It facilitates crime, bribery, and tax evasion -- and yet some governments (including ours) are printing more cash than ever. Other countries, meanwhile, are ditching cash entirely. And if Star Trek is right, we won't have money of any sort in the 24th century.
+</description>
+<pubDate>Wed, 9 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>Stephen J. Dubner and WNYC Studiosy</itunes:author>
+<itunes:subtitle>
+It facilitates crime, bribery, and tax evasion -- and yet some governments (including ours) are printing more cash than ever. Other countries, meanwhile, are ditching cash entirely. And if Star Trek is right, we won't have money of any sort in the 24th century.
+</itunes:subtitle>
+<itunes:summary>
+It facilitates crime, bribery, and tax evasion -- and yet some governments (including ours) are printing more cash than ever. Other countries, meanwhile, are ditching cash entirely. And if Star Trek is right, we won't have money of any sort in the 24th century.
+</itunes:summary>
+<itunes:duration>42:59</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/freakonomics_podcast/freakonomics_podcast092816.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+Hidden Brain: Give Me Your Tired...
+</title>
+<description>
+Our airwaves are filled with debates about migrants, refugees, and undocumented immigrants... Who should be in the United States, who shouldn't, and who should decide?
+</description>
+<pubDate>Mon, 7 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+Our airwaves are filled with debates about migrants, refugees, and undocumented immigrants... Who should be in the United States, who shouldn't, and who should decide?
+</itunes:subtitle>
+<itunes:summary>
+Our airwaves are filled with debates about migrants, refugees, and undocumented immigrants... Who should be in the United States, who shouldn't, and who should decide?
+</itunes:summary>
+<itunes:duration>1342</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510308/media/anon.npr-mp3/npr/hiddenbrain/2016/10/20161007_hiddenbrain_47.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+Freakonomics Radio: This Is Your Brain on Podcasts
+</title>
+<description>
+Neuroscientists still have a great deal to learn about the human brain. One recent MRI study sheds some light, finding that a certain kind of storytelling stimulates enormous activity across broad swaths of the brain. The takeaway is obvious: you should be listening to even more podcasts.
+</description>
+<pubDate>Sat, 5 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>Stephen J. Dubner and WNYC Studiosy</itunes:author>
+<itunes:subtitle>
+Neuroscientists still have a great deal to learn about the human brain. One recent MRI study sheds some light, finding that a certain kind of storytelling stimulates enormous activity across broad swaths of the brain. The takeaway is obvious: you should be listening to even more podcasts.
+</itunes:subtitle>
+<itunes:summary>
+Neuroscientists still have a great deal to learn about the human brain. One recent MRI study sheds some light, finding that a certain kind of storytelling stimulates enormous activity across broad swaths of the brain. The takeaway is obvious: you should be listening to even more podcasts.
+</itunes:summary>
+<itunes:duration>45:19</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/freakonomics_podcast/freakonomics_podcast101216.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+The Ezra Klein Show: Francis Fukuyama on whether America's democracy is decaying
+</title>
+<description>
+Francis Fukuyama is a political scientist, a public intellectual, and progenitor of the famed "End of History" thesis. But his recent work is his most important yet.
+</description>
+<pubDate>Thu, 3 Nov 2016 09:00:00 +0000</pubDate>
+<itunes:author>Vox / Panoply</itunes:author>
+<itunes:subtitle>
+Francis Fukuyama is a political scientist, a public intellectual, and progenitor of the famed "End of History" thesis. But his recent work is his most important yet.
+</itunes:subtitle>
+<itunes:summary>
+Francis Fukuyama is a political scientist, a public intellectual, and progenitor of the famed "End of History" thesis. But his recent work is his most important yet.
+</itunes:summary>
+<itunes:duration>4050</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.megaphone.fm/PP2238847825.mp3" length="48600920"/>
+</item>
+  
+  
+<item>
+<title>
+Randy Pausch Lecture From 2007: Time Management
+</title>
+<description>
+Randy Pausch Lecture From 2007: Time Management
+</description>
+<pubDate>Mon, 31 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>Randy Pausch</itunes:author>
+<itunes:subtitle>
+Randy Pausch Lecture From 2007: Time Management
+</itunes:subtitle>
+<itunes:summary>
+Randy Pausch Lecture From 2007: Time Management
+</itunes:summary>
+<itunes:duration>01:16:22</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/288532778-amazing-articles-randy-pausch-lecture-from-2007-time-management.mp3" length="0"/>
+</item>
+  
+  
+<item>
+<title>
+On Being: Alain de Botton — A School of Life for Atheists
+</title>
+<description>
+Alain de Botton is a philosopher who likes the best of religion, but doesn’t believe in God. He says that the most boring question you can ask of any religion is whether it is true.
+</description>
+<pubDate>Sat, 29 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>On Being with Krista Tippett</itunes:author>
+<itunes:subtitle>
+Alain de Botton is a philosopher who likes the best of religion, but doesn’t believe in God. He says that the most boring question you can ask of any religion is whether it is true.
+</itunes:subtitle>
+<itunes:summary>
+Alain de Botton is a philosopher who likes the best of religion, but doesn’t believe in God. He says that the most boring question you can ask of any religion is whether it is true.
+</itunes:summary>
+<itunes:duration>51:00</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/285159353-onbeing-alain-de-botton-a-school-of-life-for-atheists.mp3" length="49938271"/>
+</item>
+  
+  
+  
+<item>
+<title>
+TED Radio Hour: Anthropocene
+</title>
+<description>
+Some scientists say we're in a new geological age where humans are having an unprecedented impact on Earth. This hour, TED speakers ask what this means for the future of our planet, and our species.
+</description>
+<pubDate>Thu, 27 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+Some scientists say we're in a new geological age where humans are having an unprecedented impact on Earth. This hour, TED speakers ask what this means for the future of our planet, and our species.
+</itunes:subtitle>
+<itunes:summary>
+Some scientists say we're in a new geological age where humans are having an unprecedented impact on Earth. This hour, TED speakers ask what this means for the future of our planet, and our species.
+</itunes:summary>
+<itunes:duration>3163</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510298/media/anon.npr-mp3/npr/ted/2016/09/20160929_ted_tedpod.mp3" length="0"/>
+</item>
+  
+  
+
+<item>
+<title>
+Wait But Why: How (and Why) SpaceX Will Colonize Mars
+</title>
+<description>
+How (and Why) SpaceX Will Colonize Mars
+</description>
+<pubDate>Mon, 24 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>Wait But Why</itunes:author>
+<itunes:subtitle>
+How (and Why) SpaceX Will Colonize Mars
+</itunes:subtitle>
+<itunes:summary>
+How (and Why) SpaceX Will Colonize Mars
+</itunes:summary>
+<itunes:duration>03:43:09</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/285267968-amazing-articles-wait-but-why-spacex-reading-all.mp3" length="214215709"/>
+</item>
+  
+  
+  
+<item>
+<title>
+Dumbo Feather: Hugh Mackay: Social researcher, kindness advocate
+</title>
+<description>
+Hugh Mackay has been examining how we live for six decades. So he's got some pretty great insights into what makes a good life. We loved our chat with him!
+</description>
+<pubDate>Sat, 22 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>Conversations with extraordinary people</itunes:author>
+<itunes:subtitle>
+Hugh Mackay has been examining how we live for six decades. So he's got some pretty great insights into what makes a good life. We loved our chat with him!
+</itunes:subtitle>
+<itunes:summary>
+Hugh Mackay has been examining how we live for six decades. So he's got some pretty great insights into what makes a good life. We loved our chat with him!
+</itunes:summary>
+<itunes:duration>00:59:11</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/270429594-dumbo-feather-4-hugh-mackay-social-researcher.mp3" length="142038203"/>
+</item>
+  
+  
+<item>
+<title>
+This American Life: #560: Abdi and the Golden Ticket
+</title>
+<description>
+A story about someone who's desperately trying – against long odds – to make it to the United States and become an American. Abdi is a Somali refugee living in Kenya and gets the luckiest break of his life: he wins a lottery that puts him on a short list for a U.S. visa. This is his ticket out. But before he can cash in his golden ticket, the police start raiding his neighborhood, targeting refugees.
+</description>
+<pubDate>Tue, 18 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>This American Life</itunes:author>
+<itunes:subtitle>
+A story about someone who's desperately trying – against long odds – to make it to the United States and become an American. Abdi is a Somali refugee living in Kenya and gets the luckiest break of his life: he wins a lottery that puts him on a short list for a U.S. visa. This is his ticket out. But before he can cash in his golden ticket, the police start raiding his neighborhood, targeting refugees.
+</itunes:subtitle>
+<itunes:summary>
+A story about someone who's desperately trying – against long odds – to make it to the United States and become an American. Abdi is a Somali refugee living in Kenya and gets the luckiest break of his life: he wins a lottery that puts him on a short list for a U.S. visa. This is his ticket out. But before he can cash in his golden ticket, the police start raiding his neighborhood, targeting refugees.
+</itunes:summary>
+<itunes:duration>01:02:32</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/288720475-amazing-articles-this-american-life-abdi-and-the-golden-ticket.mp3" length="30335375"/>
+</item>
+
+  
+<item>
+<title>
+The Tim Ferriss Show: The Art and Science of Learning Anything Faster
+</title>
+<description>
+This is a special episode because it doesn't focus on the lessons of one particular person. Instead, I explore the tips, tricks, and framework I've used to learn just about any skill.
+</description>
+<pubDate>Sat, 15 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>Tim Ferriss: Bestselling Author, Human Guinea Pig</itunes:author>
+<itunes:subtitle>
+This is a special episode because it doesn't focus on the lessons of one particular person. Instead, I explore the tips, tricks, and framework I've used to learn just about any skill.
+</itunes:subtitle>
+<itunes:summary>
+This is a special episode because it doesn't focus on the lessons of one particular person. Instead, I explore the tips, tricks, and framework I've used to learn just about any skill.
+</itunes:summary>
+<itunes:duration>00:40:25</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/timferriss/The_Tim_Ferriss_Show_-_Art_and_Science_of_Learning_Anything_Faster.mp3" length="29092153"/>
+</item>
+  
+  
+  
+<item>
+<title>
+Y Combinator - How to Build the Future: Elon Musk
+</title>
+<description>
+Technology companies have become a powerful way to build the future. Our goal with this series is to share advice about how you can do it, too.
+</description>
+<pubDate>Tue, 11 Oct 2016 09:00:00 +0000</pubDate>
+<itunes:author>Y Combinator</itunes:author>
+<itunes:subtitle>
+Technology companies have become a powerful way to build the future. Our goal with this series is to share advice about how you can do it, too.
+</itunes:subtitle>
+<itunes:summary>
+Technology companies have become a powerful way to build the future. Our goal with this series is to share advice about how you can do it, too.
+</itunes:summary>
+<itunes:duration>00:19:32</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/283034519-ycombinator-how-to-build-the-future-elon-musk.m4a" length="37756528"/>
+</item>
+  
+
+  
+<item>
+<title>
+Dear Sugar: Totally Confused' Finds A Resolution
+</title>
+<description>
+The Sugars get an update from a 62-year-old, divorced woman who was considering a reconciliation with her ex-husband, even after years of unhappiness inside their marriage. The situation was further complicated by the fact that he was engaged to another woman. Find out how the letter-writer and her ex-husband decided to proceed.
+</description>
+<pubDate>Sat, 08 Oct 2016 12:00:00 -0000</pubDate>
+<itunes:author>Amazing Articles</itunes:author>
+<itunes:subtitle>
+The Sugars get an update from a 62-year-old, divorced woman who was considering a reconciliation with her ex-husband, even after years of unhappiness inside their marriage. The situation was further complicated by the fact that he was engaged to another woman. Find out how the letter-writer and her ex-husband decided to proceed.
+</itunes:subtitle>
+<itunes:summary>
+The Sugars get an update from a 62-year-old, divorced woman who was considering a reconciliation with her ex-husband, even after years of unhappiness inside their marriage. The situation was further complicated by the fact that he was engaged to another woman. Find out how the letter-writer and her ex-husband decided to proceed.
+</itunes:summary>
+<itunes:duration>40:55</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/audio.wbur.org/storage/2016/08/dearsugar_0826_dear-sugar-episode-sixty-seven.mp3" length="39285871" type="audio/mp3"/>
+</item>
+  
+  
+  
+
+<item>
+<title>
+a16z Podcast: Sleep!
+</title>
+<description>
+Sleep, productivity, and creatively are intimately linked, for better and for worse. And "we are living under a collective delusion that burnout is the way to succeed," observes Arianna Huffington, author of The Sleep Revolution.
+</description>
+<pubDate>Tue, 04 Oct 2016 12:00:00 -0000</pubDate>
+<itunes:author>Amazing Articles</itunes:author>
+<itunes:subtitle>
+Sleep, productivity, and creatively are intimately linked, for better and for worse. And "we are living under a collective delusion that burnout is the way to succeed," observes Arianna Huffington, author of The Sleep Revolution.
+</itunes:subtitle>
+<itunes:summary>
+Sleep, productivity, and creatively are intimately linked, for better and for worse. And "we are living under a collective delusion that burnout is the way to succeed," observes Arianna Huffington, author of The Sleep Revolution.
+</itunes:summary>
+<itunes:duration>28:14</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/281659167-a16z-sleep-revolution.mp3" length="20326967" type="audio/mp3"/>
+</item> 
+  
+  
+  
+<item>
+<title>
+Explain Things To Me: Learning Expert Jim Kwik - Thu, 05 Nov 2015
+</title>
+<description>
+Jim Kwik talks about how he went from almost failing out of school to being a speed reader and ending up imparting learning tactics to the likes of Will Smith, Richard Branson and Stan Lee.
+</description>
+<pubDate>Sat, 01 Oct 2016 12:00:00 -0000</pubDate>
+<itunes:author>Amazing Articles</itunes:author>
+<itunes:subtitle>
+Jim Kwik talks about how he went from almost failing out of school to being a speed reader and ending up imparting learning tactics to the likes of Will Smith, Richard Branson and Stan Lee.
+</itunes:subtitle>
+<itunes:summary>
+Jim Kwik talks about how he went from almost failing out of school to being a speed reader and ending up imparting learning tactics to the likes of Will Smith, Richard Branson and Stan Lee.
+</itunes:summary>
+<itunes:duration>38:25</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/explainthingstome/ETTM_Jim_Kwik_Learning_Expert.mp3" length="36911527" type="audio/mp3"/>
+</item>
+  
+
+  
+<item>
+<title>
+The First Presidential Debate - Sep 26th 2016
+</title>
+<description>
+The First Presidential Debate - Sep 26th 2016
+</description>
+<pubDate>Tue, 27 Sep 2016 12:00:00 -0000</pubDate>
+<itunes:author>Amazing Articles</itunes:author>
+<itunes:subtitle>
+The First Presidential Debate - Sep 26th 2016
+</itunes:subtitle>
+<itunes:summary>
+The First Presidential Debate - Sep 26th 2016
+</itunes:summary>
+<itunes:duration>30:42</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/285181910-amazing-articles-the-first-presidential-debate-sep-26th-2016.mp3" length="0" type="audio/mp3"/>
+</item>
+  
+  
+  
+  
+<item>
+<title>
+The Moth: George Lombardi &amp; Mary Navarre
+</title>
+<description>
+A young doctor is whisked halfway across the globe to care for an ailing international religious icon and a Catholic school dropout searches for meaning.
+</description>
+<pubDate>Fri, 23 Sep 2016 12:00:00 -0000</pubDate>
+<itunes:author>Tim Ferriss: Bestselling Author, Human Guinea Pig</itunes:author>
+<itunes:subtitle>
+A young doctor is whisked halfway across the globe to care for an ailing international religious icon and a Catholic school dropout searches for meaning.
+</itunes:subtitle>
+<itunes:summary>
+A young doctor is whisked halfway across the globe to care for an ailing international religious icon and a Catholic school dropout searches for meaning.
+</itunes:summary>
+<itunes:duration>30:42</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/feedproxy.google.com/~r/themothpodcast/~5/P1-IfLAyacE/moth_450_8_30_16.mp3" length="13841807" type="audio/mp3"/>
+</item>
+
+
+
+
+
+<item>
+<title>
+Tim Ferriss: Tony Robbins - On Achievement Versus Fulfillment
+</title>
+<description>
+For those of you that aren't familiar, Tony Robbins is the world's most famous performance coach. He's advised everyone from Bill Clinton to Mikhail Gorbachev to Serena Williams, and Leonardo DiCaprio to Oprah (who calls him "superhuman").
+</description>
+<pubDate>Tue, 20 Sep 2016 12:00:00 -0000</pubDate>
+<itunes:author>Tim Ferriss: Bestselling Author, Human Guinea Pig</itunes:author>
+<itunes:subtitle>
+For those of you that aren't familiar, Tony Robbins is the world's most famous performance coach. He's advised everyone from Bill Clinton to Mikhail Gorbachev to Serena Williams, and Leonardo DiCaprio to Oprah (who calls him "superhuman").
+</itunes:subtitle>
+<itunes:summary>
+For those of you that aren't familiar, Tony Robbins is the world's most famous performance coach. He's advised everyone from Bill Clinton to Mikhail Gorbachev to Serena Williams, and Leonardo DiCaprio to Oprah (who calls him "superhuman").
+</itunes:summary>
+<itunes:duration>01:38:00</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/timferriss/Tim_Ferriss_Show_-_Tony_Robbins_Fulfillment.mp3" length="70555063" type="audio/mp3"/>
+</item>
+
+
+
+<item>
+<title>
+Recode Replay: Elon Musk, CEO, SpaceX and Tesla (Code Conference 2016)
+</title>
+<description>
+SpaceX CEO Elon Musk talks with Recode's Kara Swisher and The Verge's Walt Mossberg about his plans to send a one-way rocket to Mars in 2018. He estimates colonists could start arriving on the Red Planet by 2025.
+</description>
+<pubDate>Fri, 16 Sep 2016 12:00:00 -0000</pubDate>
+<itunes:author>WNYC Studios and The New Yorker</itunes:author>
+<itunes:subtitle>
+SpaceX CEO Elon Musk talks with Recode's Kara Swisher and The Verge's Walt Mossberg about his plans to send a one-way rocket to Mars in 2018. He estimates colonists could start arriving on the Red Planet by 2025.
+</itunes:subtitle>
+<itunes:summary>
+SpaceX CEO Elon Musk talks with Recode's Kara Swisher and The Verge's Walt Mossberg about his plans to send a one-way rocket to Mars in 2018. He estimates colonists could start arriving on the Red Planet by 2025.
+</itunes:summary>
+<itunes:duration>01:30:35</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/rss.art19.com/episodes/d641307e-20d0-4ee2-89f1-2344bd19c7ef.mp3" length="82235559" type="audio/mp3"/>
+</item>
+
+
+
+
+<item>
+<title>
+The New Yorker: Politics and More: Mike Weisser Talks to Evan Osnos About the N.R.A.
+</title>
+<description>
+The New Yorker writer Evan Osnos talks to Mike Weisser about guns, the N.R.A., and his unusual stance on firearms.
+</description>
+<pubDate>Tue, 13 Sep 2016 12:00:00 -0000</pubDate>
+<itunes:author>WNYC Studios and The New Yorker</itunes:author>
+<itunes:subtitle>
+The New Yorker writer Evan Osnos talks to Mike Weisser about guns, the N.R.A., and his unusual stance on firearms.
+</itunes:subtitle>
+<itunes:summary>
+The New Yorker writer Evan Osnos talks to Mike Weisser about guns, the N.R.A., and his unusual stance on firearms.
+</itunes:summary>
+<itunes:duration>21:57</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://www.podtrac.com/pts/redirect.mp3/audio.wnyc.org/tnypoliticalscene/tnypoliticalscene081516.mp3" length="0" type="audio/mp3"/>
+</item>
+
+
+
+
+
+<item>
+<title>
+Politico Off Message: Tony Blair - Centrism may be dead
+</title>
+<description>
+Former British Prime Minister Tony Blair sits down with Glenn Thrush in London to discuss the relationship between American and British politics, his close relationship with the Clintons, Brexit, and the danger of approaching politics with a closed-mind.
+</description>
+<pubDate>Sat, 10 Sep 2016 12:00:00 -0000</pubDate>
+<itunes:author>POLITICO</itunes:author>
+<itunes:subtitle>
+Former British Prime Minister Tony Blair sits down with Glenn Thrush in London to discuss the relationship between American and British politics, his close relationship with the Clintons, Brexit, and the danger of approaching politics with a closed-mind.
+</itunes:subtitle>
+<itunes:summary>
+Former British Prime Minister Tony Blair sits down with Glenn Thrush in London to discuss the relationship between American and British politics, his close relationship with the Clintons, Brexit, and the danger of approaching politics with a closed-mind.
+</itunes:summary>
+<itunes:duration>48:07</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/feeds.soundcloud.com/stream/279586969-off-message-160822-blair1-mixdown.mp3" length="69218851" type="audio/mp3"/>
+</item>
+
+
+
+
+
+<item>
+<title>
+Invisibilia: The Secret History of Thoughts
+</title>
+<description>
+In "The Secret History of Thoughts," co-hosts Alix Spiegel and Lulu Miller ask the question, "Are my thoughts related to my inner wishes, do they reveal who I really am?" The answer can have profound consequences for your life.
+</description>
+<pubDate>Fri, 2 Sep 2016 12:00:00 -0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+In "The Secret History of Thoughts," co-hosts Alix Spiegel and Lulu Miller ask the question, "Are my thoughts related to my inner wishes, do they reveal who I really am?" The answer can have profound consequences for your life.
+</itunes:subtitle>
+<itunes:summary>
+In "The Secret History of Thoughts," co-hosts Alix Spiegel and Lulu Miller ask the question, "Are my thoughts related to my inner wishes, do they reveal who I really am?" The answer can have profound consequences for your life.
+</itunes:summary>
+<itunes:duration>3466</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/npr.mc.tritondigital.com/INVIS_PODCAST/media/anon.npr-podcasts/podcast/510307/375981020/npr_375981020.mp3" length="0" type="audio/mp3"/>
+</item>
+
+
+
+<item>
+<title>
+Freakonomics Radio: Are You Ready for a Glorious Sunset?
+</title>
+<description>
+The gist: we spend billions on end-of-life healthcare that doesn’t do much good. So what if a patient could forego the standard treatment and get a cash rebate instead?
+</description>
+<pubDate>Wed, 24 Aug 2016 12:00:00 -0000</pubDate>
+<itunes:author>Freakonomics Radio</itunes:author>
+<itunes:subtitle>
+The gist: we spend billions on end-of-life healthcare that doesn’t do much good. So what if a patient could forego the standard treatment and get a cash rebate instead?
+</itunes:subtitle>
+<itunes:summary>
+The gist: we spend billions on end-of-life healthcare that doesn’t do much good. So what if a patient could forego the standard treatment and get a cash rebate instead?
+</itunes:summary>
+<itunes:duration>37:46</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/audio.wnyc.org/freakonomics_podcast/freakonomics_podcast082416.mp3" length="0" type="audio/mp3"/>
+</item>
+
+
+
+<item>
+<title>
+The Tim Ferriss Show: The Interview Master: Cal Fussman and the Power of Listening
+</title>
+<description>
+This episode is very special to me and features a verbal Jedi who never gets interviewed himself: Cal Fussman.
+</description>
+<pubDate>Fri, 11 Mar 2016 12:00:00 -0000</pubDate>
+<itunes:author>Tim Ferriss: Bestselling Author, Human Guinea Pig</itunes:author>
+<itunes:subtitle>
+This episode is very special to me and features a verbal Jedi who never gets interviewed himself: Cal Fussman.
+</itunes:subtitle>
+<itunes:summary>
+This episode is very special to me and features a verbal Jedi who never gets interviewed himself: Cal Fussman.
+</itunes:summary>
+<itunes:duration>03:22:23</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/timferriss/Tim_Ferriss_Show_-_Cal_Fussman.mp3" length="97250483" type="audio/mp3"/>
+</item>
+
+
+
+
+<item>
+<title>
+The Ezra Klein Show: Bill Gates on stopping climate change, building robots, and the best books he’s read
+</title>
+<description>
+Bill Gates is one of those people for whom “needs no introduction” is actually true. The polymathic Microsoft founder now leads the world’s largest and most important private foundation, and he’s predicting that we’re on the cusp of the energy breakthrough that’s going to save the world. He also talks about the controversial idea that technological innovation is slowing down, assesses how close we are to true artificial intelligence, and explains why you really want to save being sick for 20 years from now.
+</description>
+<pubDate>Tue, 23 Feb 2016 12:00:00 -0000</pubDate>
+<itunes:author>Vox / Panoply</itunes:author>
+<itunes:subtitle>
+Bill Gates on stopping climate change, building robots, and the best books he's read
+</itunes:subtitle>
+<itunes:summary>
+Bill Gates is one of those people for whom “needs no introduction” is actually true. The polymathic Microsoft founder now leads the world’s largest and most important private foundation, and he’s predicting that we’re on the cusp of the energy breakthrough that’s going to save the world. He also talks about the controversial idea that technological innovation is slowing down, assesses how close we are to true artificial intelligence, and explains why you really want to save being sick for 20 years from now.
+</itunes:summary>
+<itunes:duration>40:31</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="http://dts.podtrac.com/redirect.mp3/cdn.panoply.fm/PP1972129356.mp3" length="29209078" type="audio/mp3"/>
+</item>
+
+
+</channel>
+</rss>
