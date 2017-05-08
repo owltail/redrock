@@ -9,10 +9,10 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 </description>
 <language>en</language>
 <pubdate>
-Thu, 4 May Apr 2017 12:00:00 -0000
+Sun, 8 May 2017 12:00:00 -0000
   </pubdate>
 <lastBuildDate>
-Thu, 4 May 2017 12:00:00 -0000
+Sun, 8 May 2017 12:00:00 -0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg</url>
@@ -35,6 +35,27 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Business"/>
 <itunes:category text="Education"/>
 
+  
+<item>
+<title>
+TED Radio Hour: The Digital Industrial Revolution
+</title>
+<description>
+As machine learning surpasses human intelligence, where does that leave us? This hour, TED speakers explore ideas about the exciting and terrifying future of human-robot collaboration.
+</description>
+<pubDate>Sun, 8 May 2017 09:00:00 +0000</pubDate>
+<itunes:author>NPR</itunes:author>
+<itunes:subtitle>
+As machine learning surpasses human intelligence, where does that leave us? This hour, TED speakers explore ideas about the exciting and terrifying future of human-robot collaboration.
+</itunes:subtitle>
+<itunes:summary>
+As machine learning surpasses human intelligence, where does that leave us? This hour, TED speakers explore ideas about the exciting and terrifying future of human-robot collaboration.
+</itunes:summary>
+<itunes:duration>3161</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510298/media/anon.npr-mp3/npr/ted/2017/04/20170421_ted_tedpod.mp3" length="0"/>
+</item>
+  
   
 <item>
 <title>
