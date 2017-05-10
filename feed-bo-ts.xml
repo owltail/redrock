@@ -9,10 +9,10 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 </description>
 <language>en</language>
 <pubdate>
-Sun, 8 May 2017 12:00:00 -0000
+Tue, 9 May 2017 12:00:00 -0000
   </pubdate>
 <lastBuildDate>
-Sun, 8 May 2017 12:00:00 -0000
+Tue, 9 May 2017 12:00:00 -0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg</url>
@@ -36,6 +36,31 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Education"/>
 
   
+  
+  
+<item>
+<title>
+The Daily: NYTimes Investigation Into Uber
+</title>
+<description>
+A Times investigation into the chief executive of Uber, Travis Kalanick, finds that his drive to win has plunged the company into its most sustained set of crises since its founding. Guest: Mike Isaac, a technology reporter who has exposed many of the recent controversies involving Uber.
+</description>
+<pubDate>Tue, 9 May 2017 09:00:00 +0000</pubDate>
+<itunes:author>The New York Times</itunes:author>
+<itunes:subtitle>
+A Times investigation into the chief executive of Uber, Travis Kalanick, finds that his drive to win has plunged the company into its most sustained set of crises since its founding. Guest: Mike Isaac, a technology reporter who has exposed many of the recent controversies involving Uber.
+</itunes:subtitle>
+<itunes:summary>
+A Times investigation into the chief executive of Uber, Travis Kalanick, finds that his drive to win has plunged the company into its most sustained set of crises since its founding. Guest: Mike Isaac, a technology reporter who has exposed many of the recent controversies involving Uber.
+</itunes:summary>
+<itunes:duration>00:21:49</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/rss.art19.com/episodes/6f3cff00-c312-4a91-b072-5f497a0bf64a.mp3" length="20480000"/>
+</item>
+  
+  
+  
+  
 <item>
 <title>
 TED Radio Hour: The Digital Industrial Revolution
@@ -43,7 +68,7 @@ TED Radio Hour: The Digital Industrial Revolution
 <description>
 As machine learning surpasses human intelligence, where does that leave us? This hour, TED speakers explore ideas about the exciting and terrifying future of human-robot collaboration.
 </description>
-<pubDate>Sun, 8 May 2017 09:00:00 +0000</pubDate>
+<pubDate>Sun, 7 May 2017 09:00:00 +0000</pubDate>
 <itunes:author>NPR</itunes:author>
 <itunes:subtitle>
 As machine learning surpasses human intelligence, where does that leave us? This hour, TED speakers explore ideas about the exciting and terrifying future of human-robot collaboration.
@@ -55,8 +80,9 @@ As machine learning surpasses human intelligence, where does that leave us? This
 <itunes:explicit>no</itunes:explicit>
 <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/npr.mc.tritondigital.com/NPR_510298/media/anon.npr-mp3/npr/ted/2017/04/20170421_ted_tedpod.mp3" length="0"/>
 </item>
+
   
-  
+
 <item>
 <title>
 Waking Up with Sam Harris: Forbidden Knowledge
