@@ -9,10 +9,10 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 </description>
 <language>en</language>
 <pubdate>
-Sat, 13 Jan 2018 12:00:00 -0000
+Mon, 15 Jan 2018 12:00:00 -0000
   </pubdate>
 <lastBuildDate>
-Sat, 13 Jan 2018 12:00:00 -0000
+Mon, 15 Jan 2018 12:00:00 -0000
   </lastBuildDate>
 <image>
 <url>http://i1.sndcdn.com/avatars-000266047571-zc7vuu-original.jpg</url>
@@ -34,7 +34,30 @@ Copyright is owned by the publisher, not this podcast, audio is streamed directl
 <itunes:category text="Society &amp; Culture"/>
 <itunes:category text="Business"/>
 <itunes:category text="Education"/>
-
+ 
+  
+  
+  
+<item>
+<title>
+This American Life: Human Error in Volatile Situations
+</title>
+<description>
+Even the best laid plans can go catastrophically wrong when humans get involved. This week, people bungle simple operations on some of the most dangerous weapons in the world.
+</description>
+<pubDate>Mon, 15 Jan 2018 09:00:00 +0000</pubDate>
+<itunes:author>This American Life</itunes:author>
+<itunes:subtitle>
+Even the best laid plans can go catastrophically wrong when humans get involved. This week, people bungle simple operations on some of the most dangerous weapons in the world.
+</itunes:subtitle>
+<itunes:summary>
+Even the best laid plans can go catastrophically wrong when humans get involved. This week, people bungle simple operations on some of the most dangerous weapons in the world.
+</itunes:summary>
+<itunes:duration>01:02:56</itunes:duration>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/podcast.thisamericanlife.org/extended/634.mp3" length="0"/>
+</item>  
+  
   
   
   
@@ -57,7 +80,7 @@ Alice Little (@thealicelittle) is considered the #1 top-earning legal sex worker
 <itunes:explicit>yes</itunes:explicit>
 <enclosure type="audio/mpeg" url="http://www.podtrac.com/pts/redirect.mp3/rss.art19.com/episodes/94e42944-29a2-4028-9cdc-866fdb84cd12.mp3" length="140471484"/>
 </item>
-  
+
   
   
   
